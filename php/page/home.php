@@ -19,9 +19,9 @@
 						
 						<!-- Header + subheader -->
 						<div class="template-component-header-subheader">
-							<h2>Professional Shine</h2>
+							<h2>Carvenience</h2>
 							<div></div>
-							<span>On Your &amp; Time!</span>
+							<span>On Demand &amp; Carwash</span>
 						</div>	
 						
 						<!-- Layout 33x66% -->
@@ -37,10 +37,12 @@
 								
 								<!-- Text -->
 								<p class="template-padding-reset">
-									Carvenience Hand Wash is an eco-friendly, hand car wash and detailing service based in Portland. 
-									Our company was founded back in 2005 by a team of experts with more then 10 years of professional car wash experience. 
-									We operate three car washes throught Portland area. Our goal is to provide our customers with the friendliest, most convenient 
-									hand car wash experience possible. We use the most modern and up-to-date water reclamation modules as a part of our car wash systems. 
+									We are one of the first on-demand 
+									automotive service providers in the 
+									U.S. We use the best products in the industry from Chemical Guys Inc. By trained gig workers, who love your automobiles shine just as much as you do.
+									Our company was founded back in 2021 by James Russell, CEO, of JHR Enterprises LLC. Who takes special interest in the environment. 
+									We utilize todays technology and tomorrows innovation to bring our services to you. Our goal is to provide our customers with the friendliest, most convenient 
+									Automotive service experience possible. 
 									Our products are all biodegradable and eco-friendly.
 								</p>
 																
@@ -57,9 +59,9 @@
 											<h5>The Best Car Wash</h5>
 											<ul class="template-component-list">
 												<li><span class="template-icon-meta-check"></span>We offer multiple services at a great value</li>
-												<li><span class="template-icon-meta-check"></span>Multiple car wash locations throughout Portland</li>
+												<li><span class="template-icon-meta-check"></span>booking online with future mobile app is under development.</li>
 												<li><span class="template-icon-meta-check"></span>Biodegradable and eco-friendly products</li>
-												<li><span class="template-icon-meta-check"></span>Pay for your wash electronically and securely</li>
+												<li><span class="template-icon-meta-check"></span>Utilizing payments through electronically with security at the front of our mind.</li>
 												<li><span class="template-icon-meta-check"></span>Trained and skilled car wash crew members</li>
 											</ul>
 										</li>
@@ -126,7 +128,7 @@
 									<!-- Left column -->
 									<li class="template-layout-column-left">
 										<span class="template-icon-feature-check"></span>
-										<h5>1. Book</h5>
+										<h5>1. Package</h5>
 										<span class="template-icon-meta-arrow-large-rl"></span>
 									</li>
 									
@@ -147,7 +149,7 @@
 									<!-- Right column -->
 									<li class="template-layout-column-right">
 										<span class="template-icon-feature-vacuum-cleaner"></span>
-										<h5>4. Shine</h5>
+										<h5>4. Book</h5>
 									</li>
 									
 								</ul>
@@ -216,7 +218,7 @@
 										<li class="template-layout-column-left">
 											<span class="template-icon-feature-location-map"></span>
 											<h5>Convenience</h5>
-											<p>We are dedicated to providing quality service, customer satisfaction at a great value in multiple locations offering convenient hours.</p>
+											<p>We are dedicated to providing quality service, customer satisfaction at a great value at you convenient location and time.</p>
 										</li>
 										
 										<!-- Right column -->

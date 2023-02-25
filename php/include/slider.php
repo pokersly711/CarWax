@@ -65,7 +65,7 @@
 					style="letter-spacing: 4px;"
 					>
 					
-						Rob
+						A New Way
 				</div>
 				
 				<!-- Layer 03 -->
@@ -97,7 +97,7 @@
 					>
 					
 					
-					what you see here
+					to get your Shine On!!!
 				</div>
 	
 				<!-- Layer 04 -->
@@ -127,7 +127,7 @@
 					data-responsive_offset="on"
 					>
 					
-					<a class="template-component-button template-color-white" href="#" title="Purchase Template">Carvenience-Ondemand</a>
+					<a class="template-component-button template-color-white" href="#" title="Purchase Template">Learn More</a>
 				</div>
 			</li>
 			
@@ -194,7 +194,7 @@
 					style="letter-spacing: 4px;"
 					>
 					
-				    is gonna blow 
+				    Your Time, 
 				</div>
 				
 				<!-- Layer 03 -->
@@ -225,7 +225,7 @@
 					style="letter-spacing: 4px;"
 					>
 					
-					the fuck up!				</div>
+					Your Location!!!				</div>
 	
 				<!-- Layer 04 -->
 				<div class="tp-caption tp-resizeme" 
@@ -254,7 +254,7 @@
 					data-responsive_offset="on"
 					>
 					
-					<a class="template-component-button template-color-white" href="#" title="Purchase Template">At your Location</a>
+					<a class="template-component-button template-color-white" href="#" title="Purchase Template">Book Now!</a>
 				</div>
 			</li>
 			
@@ -291,7 +291,7 @@
 					style="letter-spacing: 2px;"
 					>
 					
-					Book Today!!!!
+					Easy Booking,
 				</div>
 				
 				<!-- Layer 02 -->
@@ -322,7 +322,7 @@
 					style="letter-spacing: 4px;"
 					>
 					
-					Protect and polish all external trim.
+					Professional Service!!!
 				</div>
 				
 				<!-- Layer 03 -->
@@ -353,7 +353,7 @@
 					style="letter-spacing: 4px;"
 					>
 					
-				     any size vehicle...$45.00
+				     Limited Time Sign Up Special!!!
 				</div>
 	
 				<!-- Layer 04 -->
@@ -383,7 +383,7 @@
 					data-responsive_offset="on"
 					>
 					
-					<a class="template-component-button template-color-white" href="#" title="Purchase Template">Book Now</a>
+					<a class="template-component-button template-color-white" href="#" title="Purchase Template">Packages</a>
 				</div>
 			</li>
 		</ul>
