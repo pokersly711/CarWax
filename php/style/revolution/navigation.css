@@ -114,14 +114,14 @@ border-radius:30px 0px 0px 30px;
 	width:13px;
 	height:13px;
 	position:absolute;
-	background:#e5e5e5;
+	background:#000;
 	border-radius:50%;
 	cursor: pointer;
 	box-sizing:content-box;
 }
 .ares .tp-bullet:hover,
 .ares .tp-bullet.selected {
-	background:#fff;
+	background:##43f036;
 }
 .ares .tp-bullet-title {
   position:absolute;
@@ -131,8 +131,8 @@ border-radius:30px 0px 0px 30px;
   font-weight:600;
   right:27px;
   top:-4px;
-  background:#fff;
-  background:rgba(255,255,255,0.75);
+  background:#000;
+  background:rgba(0,0,0,0.75);
   visibility:hidden;
   transform:translateX(-20px);
   -webkit-transform:translateX(-20px);
@@ -147,7 +147,7 @@ border-radius:30px 0px 0px 30px;
 	height: 0px;
 	border-style: solid;
 	border-width: 10px 0 10px 10px;
-	border-color: transparent transparent transparent rgba(255,255,255,0.75);
+	border-color: transparent transparent transparent rgba(0,0,0,0.75);
 	content:" ";
     position:absolute;
     right:-10px;
@@ -164,7 +164,7 @@ border-radius:30px 0px 0px 30px;
     background:#fff;
         }
 .ares .tp-bullet.selected:hover .tp-bullet-title:after {
-  border-color:transparent transparent transparent #2d4010;
+  border-color:transparent transparent transparent ##43f036;
 }
 .ares.tp-bullets:hover .tp-bullet-title {
         visibility:hidden;
@@ -179,7 +179,7 @@ border-radius:30px 0px 0px 30px;
   padding:10px;
   box-sizing:border-box;
   font-family: "Roboto", sans-serif;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid ##43f036;
  }
 .ares .tp-tab-image 
 { 
@@ -199,7 +199,7 @@ border-radius:30px 0px 0px 30px;
  overflow:hidden;
  margin-top:-15px;
     box-sizing:border-box;
-    color:#78d918;
+    color:##43f036;
     display: inline-block;
     width:100%;
     height:100%;
@@ -207,7 +207,7 @@ border-radius:30px 0px 0px 30px;
 .ares .tp-tab-date
   {
   display:block;
-  color: #78d918;
+  color: ##43f036;
   font-weight:500;
   font-size:12px;
   margin-bottom:0px;
@@ -216,7 +216,7 @@ border-radius:30px 0px 0px 30px;
 {
     display:block;	
     text-align:left;
-    color:#78d918;
+    color:##43f036;
     font-size:14px;
     font-weight:500;
     text-transform:none;
@@ -224,7 +224,7 @@ border-radius:30px 0px 0px 30px;
 }
 .ares .tp-tab:hover,
 .ares .tp-tab.selected {
-	background:#eee; 
+	background:#000; 
 }
 
 .ares .tp-tab-mask {
@@ -265,7 +265,7 @@ website:    http://www.themepunch.com
 .custom.tparrows:before {
 	font-family: "revicons";
 	font-size:15px;
-	color:#78d919;
+	color:##43f036;
 	display:block;
 	line-height: 40px;
 	text-align: center;
@@ -296,14 +296,14 @@ website:    http://www.themepunch.com
 	width:12px;
 	height:12px;
 	position:absolute;
-	background:#aaa;
-    background:rgba(125,125,125,0.5);
+	background:#000;
+    background:rgba(0,0,0,0.5);
 	cursor: pointer;
 	box-sizing:content-box;
 }
 .custom .tp-bullet:hover,
 .custom .tp-bullet.selected {
-	background:rgb(125,125,125);
+	background:rgb(0,0,0);
 }
 .custom .tp-bullet-image {
 }
@@ -446,7 +446,7 @@ visibility:visible;
      left:50%;
      background:#000;
      background:rgba(0,0,0,0.75);
-     color:#78d918;
+     color:##43f036;
      padding:10px 30px;
      border-radius:4px;
    -webkit-border-radius:4px;
@@ -470,14 +470,14 @@ visibility:visible;
 .dione .tp-bullet.selected,
 .dione .tp-bullet:hover  {
   
-   background: rgba(255,255,255,1);
-  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(119,119,119,1)));
-  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#ffffff", endColorstr="#777777", GradientType=0 );
+   background: rgba(0,0,0,1);
+  background: -moz-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(#0,#0,#0,1)), color-stop(100%, rgba(119,119,119,1)));
+  background: -webkit-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -o-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -ms-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: linear-gradient(to bottom, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#000", endColorstr="#777777", GradientType=0 );
  
       }
 .dione .tp-bullet-title:after {
@@ -489,7 +489,7 @@ visibility:visible;
     height: 0;
     border-style: solid;
     border-width: 8px 8px 0 8px;
-    border-color: rgba(0,0,0,0.75) transparent transparent transparent;
+    border-color: rgba(67,240,54,0.75) transparent transparent transparent;
         bottom:-8px;
    }
 
@@ -520,7 +520,7 @@ website:    http://www.themepunch.com
 .erinyen.tparrows:before {
   font-family: "revicons";
   font-size:20px;
-  color:#7cf205;
+  color:##43f036;
   display:block;
   line-height: 70px;
   text-align: center;    
@@ -586,7 +586,7 @@ website:    http://www.themepunch.com
   transition: transform 0.3s;
   transform:translateX(200px);  
   text-transform:uppercase;
-  color:#78d918;
+  color:##43f036;
   font-weight:600;
   font-size:13px;
   line-height:70px;
@@ -634,7 +634,7 @@ website:    http://www.themepunch.com
 	position:absolute;
 	width:100%;
 	height:100%;
-	background: #555555; /* old browsers */
+	background: #000; /* old browsers */
     background: -moz-linear-gradient(top,  #555555 0%, #222222 100%); /* ff3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#555555), color-stop(100%,#222222)); /* chrome,safari4+ */
     background: -webkit-linear-gradient(top,  #555555 0%,#222222 100%); /* chrome10+,safari5.1+ */
@@ -659,7 +659,7 @@ website:    http://www.themepunch.com
 }
 .erinyen .tp-bullet:hover,
 .erinyen .tp-bullet.selected {
-	background: #e5e5e5; /* old browsers */
+	background: #000; /* old browsers */
 background: -moz-linear-gradient(top,  #e5e5e5 0%, #999999 100%); /* ff3.6+ */
 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e5e5e5), color-stop(100%,#999999)); /* chrome,safari4+ */
 background: -webkit-linear-gradient(top,  #e5e5e5 0%,#999999 100%); /* chrome10+,safari5.1+ */
@@ -667,7 +667,7 @@ background: -o-linear-gradient(top,  #e5e5e5 0%,#999999 100%); /* opera 11.10+ *
 background: -ms-linear-gradient(top,  #e5e5e5 0%,#999999 100%); /* ie10+ */
 background: linear-gradient(to bottom,  #e5e5e5 0%,#999999 100%); /* w3c */
 filter: progid:dximagetransform.microsoft.gradient( startcolorstr="#e5e5e5", endcolorstr="#999999",gradienttype=0 ); /* ie6-9 */
-  border:1px solid #555;
+  border:1px solid ##43f036;
   width:12px;height:12px;
 }
 .erinyen .tp-bullet-image {
@@ -697,8 +697,8 @@ opacity:1
 .erinyen .tp-thumb-more:before {
   font-family: "revicons";
   font-size:12px;
-  color:#78d918;
-  color:rgba(255,255,255,0.75);
+  color:##43f036;
+  color: rgb(67, 240, 54);
   display:block;
   line-height: 12px;
   text-align: left;    
@@ -716,7 +716,7 @@ opacity:1
   font-family:"Raleway";
   letter-spacing:1px;
   font-size:12px;
-  color:#78d918;
+  color:##43f036;
   display:block;
   line-height: 15px;
   text-align: left;    
@@ -736,24 +736,24 @@ opacity:1
 
 .erinyen .tp-thumb.selected .tp-thumb-more:before,
 .erinyen .tp-thumb:hover .tp-thumb-more:before {
- color:#78d918;
+ color:##43f036;
 
 }
 
 .erinyen .tp-thumb.selected .tp-thumb-over,
 .erinyen .tp-thumb:hover .tp-thumb-over {
- background:#fff;
+ background:#000;
 }
 .erinyen .tp-thumb.selected .tp-thumb-title,
 .erinyen .tp-thumb:hover .tp-thumb-title {
-  color:#78d918;
+  color:##43f036;
 
 }
 
 
 /* TABS */
 .erinyen .tp-tab-title {
-    color:#a8d8ee;
+    color:#000;
     font-size:13px;
     font-weight:700;
     text-transform:uppercase;
@@ -764,7 +764,7 @@ opacity:1
 .erinyen .tp-tab-desc {
 	font-size:18px;
     font-weight:400;
-    color:#fff;
+    color:##43f036;
     line-height:25px;
 	font-family:"Roboto Slab";
 }
@@ -818,16 +818,16 @@ website:    http://www.themepunch.com
 }
 .gyges .tp-bullet:hover,
 .gyges .tp-bullet.selected {
-	background: #ffffff; /* Old browsers */
-    background: -moz-linear-gradient(top,  #ffffff 0%, #e1e1e1 100%); /* FF3.6+ */
+	background: #000; /* Old browsers */
+    background: -moz-linear-gradient(top,  #000 0%, #989F98 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, 
-    color-stop(0%,#ffffff), color-stop(100%,#e1e1e1)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  #ffffff 0%,#e1e1e1 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #ffffff 0%,#e1e1e1 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #ffffff 0%,#e1e1e1 100%); /* IE10+ */
-    background: linear-gradient(to bottom,  #ffffff 0%,#e1e1e1 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#ffffff", 
-    endColorstr="#e1e1e1",GradientType=0 ); /* IE6-9 */
+    color-stop(0%,#000), color-stop(100%,##989F98)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #000 0%,##989F98 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #000 0%,##989F98 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #000 0%,##989F98 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #000 0%,##989F98 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#000", 
+    endColorstr="##989F98",GradientType=0 ); /* IE6-9 */
 
 }
 .gyges .tp-bullet-image {
@@ -868,7 +868,7 @@ website:    http://www.themepunch.com
      bottom:100%; 
      display:inline-block;
      left:50%;
-     background:rgba(255,255,255,0.8);
+     background:rgba(0,0,0,0.8);
      padding:10px 30px;
      border-radius:4px;
 	 -webkit-border-radius:4px;
@@ -891,14 +891,14 @@ website:    http://www.themepunch.com
 .gyges .tp-thumb:hover .tp-thumb-img-wrap,
  .gyges .tp-thumb.selected .tp-thumb-img-wrap {
 
-  background: rgba(255,255,255,1);
-  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(119,119,119,1)));
-  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#ffffff", endColorstr="#777777", GradientType=0 );
+  background: rgba(0,0,0,1);
+  background: -moz-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(#0,#0,#0,1)), color-stop(100%, rgba(119,119,119,1)));
+  background: -webkit-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -o-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -ms-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: linear-gradient(to bottom, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#000", endColorstr="#777777", GradientType=0 );
  }
 .gyges .tp-thumb-title:after {
         content:" ";
@@ -909,7 +909,7 @@ website:    http://www.themepunch.com
 		height: 0;
 		border-style: solid;
 		border-width: 8px 8px 0 8px;
-		border-color: rgba(255,255,255,0.8) transparent transparent transparent;
+		border-color: rgb(67, 240, 54, 0.8) transparent transparent transparent;
         bottom:-8px;
    }
 
@@ -920,7 +920,7 @@ website:    http://www.themepunch.com
   padding:10px;
   box-sizing:border-box;
   font-family: "Roboto", sans-serif;
-  border-bottom: 1px solid rgba(255,255,255,0.15);
+  border-bottom: 1px solid rgb(67, 240, 54);
  }
 .gyges .tp-tab-image 
 { 
@@ -948,7 +948,7 @@ website:    http://www.themepunch.com
 .gyges .tp-tab-date
   {
   display:block;
-  color: rgba(255,255,255,0.25);
+  color: rgba(#0,#0,#0,0.25);
   font-weight:500;
   font-size:12px;
   margin-bottom:0px;
@@ -957,7 +957,7 @@ website:    http://www.themepunch.com
 {
     display:block;  
     text-align:left;
-    color:#fff;
+    color:##43f036;
     font-size:14px;
     font-weight:500;
     text-transform:none;
@@ -1004,7 +1004,7 @@ website:    http://www.themepunch.com
 .hades.tparrows:before {
 	font-family: "revicons";
 	font-size:30px;
-	color:#fff;
+	color:##43f036;
 	display:block;
 	line-height: 100px;
 	text-align: center;
@@ -1018,15 +1018,15 @@ website:    http://www.themepunch.com
 }
 
 .hades.tparrows:hover:before {
-   color:#aaa;
-   background:#fff;
-   background:rgba(255,255,255,1);
+   color:##43f036;
+   background:#000;
+   background:rgba(#0,#0,#0,1);
  }
 .hades .tp-arr-allwrapper {
   position:absolute;
   left:100%;
   top:0px;
-  background:#888; 
+  background:#000; 
   width:100px;height:100px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -1093,7 +1093,7 @@ website:    http://www.themepunch.com
 	position:absolute;
 	background:#888;	
 	cursor: pointer;
-    border:5px solid #fff;
+    border:5px solid ##43f036;
 	box-sizing:content-box;
     box-shadow:0px 0px 3px 1px rgba(0,0,0,0.2);
     -webkit-perspective:400;
@@ -1103,7 +1103,7 @@ website:    http://www.themepunch.com
 }
 .hades .tp-bullet:hover,
 .hades .tp-bullet.selected {
-	background:#555;
+	background:#000;
   
 }
 
@@ -1170,14 +1170,14 @@ background:#000;
 .hades .tp-thumb:hover .tp-thumb-img-wrap,
 .hades .tp-thumb.selected .tp-thumb-img-wrap {
   
-   background: rgba(255,255,255,1);
-  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(119,119,119,1)));
-  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#ffffff", endColorstr="#777777", GradientType=0 );
+   background: rgba(#0,#0,#0,1);
+  background: -moz-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(#0,#0,#0,1)), color-stop(100%, rgba(119,119,119,1)));
+  background: -webkit-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -o-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -ms-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: linear-gradient(to bottom, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#000", endColorstr="#777777", GradientType=0 );
  
       }
 .hades .tp-thumb-title:after {
@@ -1223,9 +1223,9 @@ background:#000;
     margin-top:15px;
     text-align:center;
 	padding:5px 15px;
-  	color:#fff;
+  	color:##43f036;
   	font-size:14px;
-  	background:#219bd7;
+  	background:##989f98;
    	border-radius:4px;
    font-weight:400;
 }
@@ -1248,7 +1248,7 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .hebe.tparrows {
   cursor:pointer;
-  background:#fff;
+  background:#000;
   min-width:70px;
     min-height:70px;
   position:absolute;
@@ -1260,7 +1260,7 @@ website:    http://www.themepunch.com
 .hebe.tparrows:before {
   font-family: "revicons";
   font-size:30px;
-  color:#aaa;
+  color:##43f036;
   display:block;
   line-height: 70px;
   text-align: center;
@@ -1269,7 +1269,7 @@ website:    http://www.themepunch.com
   transition: color 0.3s;
   z-index:2;
   position:relative;
-   background:#fff;
+   background:#000;
   min-width:70px;
     min-height:70px;
 }
@@ -1310,7 +1310,7 @@ website:    http://www.themepunch.com
 .hebe .tp-arr-titleholder {
   position:relative;
   text-transform:uppercase;
-  color:#1af80f;
+  color:##43f036;
   font-weight:600;
   font-size:12px;
   line-height:90px;
@@ -1362,9 +1362,9 @@ website:    http://www.themepunch.com
   width:3px;
   height:3px;
   position:absolute;
-  background:#fff;  
+  background:##989f98;  
   cursor: pointer;
-  border:5px solid #222;
+  border:5px solid ##43f036;
   border-radius:50%;
   box-sizing:content-box;
   -webkit-perspective:400;
@@ -1375,8 +1375,8 @@ website:    http://www.themepunch.com
 }
 .hebe .tp-bullet:hover,
 .hebe .tp-bullet.selected {
-  background:#222;
-  border-color:whitesmoke;
+  background:#43f036;
+  border-color:#000;
 }
 
 .hebe .tp-bullet-image {
@@ -1414,7 +1414,7 @@ border-radius:6px;
 
 /* TABS */
 .hebe .tp-tab-title {
-    color:#a8d8ee;
+    color:##989f98;
     font-size:13px;
     font-weight:700;
     text-transform:uppercase;
@@ -1425,7 +1425,7 @@ border-radius:6px;
 .hebe .tp-tab-desc {
 	font-size:18px;
     font-weight:400;
-    color:#fff;
+    color:#43f036;
     line-height:25px;
 	font-family:"Roboto Slab";
 }
@@ -1459,7 +1459,7 @@ website:    http://www.themepunch.com
 .hephaistos.tparrows:before {
 	font-family: "revicons";
 	font-size:18px;
-	color:#fff;
+	color:#43f036;
 	display:block;
 	line-height: 40px;
 	text-align: center;
@@ -1493,8 +1493,8 @@ website:    http://www.themepunch.com
 	width:12px;
 	height:12px;
 	position:absolute;
-	background:#999;
-	border:3px solid #f5f5f5;
+	background:#000;
+	border:3px solid #43f036;
 	border-radius:50%;
 	cursor: pointer;
 	box-sizing:content-box;
@@ -1503,8 +1503,8 @@ website:    http://www.themepunch.com
 }
 .hephaistos .tp-bullet:hover,
 .hephaistos .tp-bullet.selected {
-	background:#fff;
-    border-color:#000;
+	background:#000;
+    border-color:#43f036;
 }
 .hephaistos .tp-bullet-image {
 }
@@ -1537,7 +1537,7 @@ website:    http://www.themepunch.com
 .hermes.tparrows:before {
 	font-family: "revicons";
 	font-size:15px;
-	color:#fff;
+	color:#43f036;
 	display:block;
 	line-height: 110px;
 	text-align: center;
@@ -1605,8 +1605,8 @@ website:    http://www.themepunch.com
   text-align:left; 
   display:block;
   padding:0px 10px;
-  line-height:30px; background:#000;
-  background:rgba(0,0,0,0.75);color:#fff;
+  line-height:30px; background:##989f98;
+  background:rgba(0,0,0,0.75);color:##43f036;
   font-weight:600; position:absolute;
   font-size:12px;
   white-space:nowrap;
@@ -1638,7 +1638,7 @@ website:    http://www.themepunch.com
     width:16px;
     height:16px;
     background-color: rgba(0, 0, 0, 0);
-    box-shadow: inset 0 0 0 2px #FFF;
+    box-shadow: inset 0 0 0 2px ##989f98;
     -webkit-transition: background 0.3s ease;
     transition: background 0.3s ease;
     position:absolute;
@@ -1654,8 +1654,8 @@ website:    http://www.themepunch.com
   height: 0;
   left: 0;
   width: 100%;
-  background-color: #FFF;
-  box-shadow: 0 0 1px #FFF;
+  background-color: ##989f98;
+  box-shadow: 0 0 1px ##989f98;
   -webkit-transition: height 0.3s ease;
   transition: height 0.3s ease;
 }
@@ -1682,7 +1682,7 @@ website:    http://www.themepunch.com
     position:absolute;
     padding:20px 20px 20px 30px;
     box-sizing:border-box;
-    color:#fff;
+    color:#43f036;
   display:block;
   width:100%;
   min-height:40%;
@@ -1692,7 +1692,7 @@ website:    http://www.themepunch.com
 .hermes .tp-tab-date
   {
   display:block;
-  color:#888;
+  color:#43f036;
   font-weight:600;
   font-size:12px;
   margin-bottom:10px;
@@ -1700,7 +1700,7 @@ website:    http://www.themepunch.com
 .hermes .tp-tab-title 
 {
     display:block;	
-    color:#fff;
+    color:#43f036;
     font-size:16px;
     font-weight:800;
     text-transform:uppercase;
@@ -1797,15 +1797,15 @@ website:    http://www.themepunch.com
 	height:12px;
 	position:absolute;
 	background: #999999; /* old browsers */
-    background: -moz-linear-gradient(top,  #999999 0%, #e1e1e1 100%); /* ff3.6+ */
+    background: -moz-linear-gradient(top,  #999999 0%, ##989F98 100%); /* ff3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#999999), 
-    color-stop(100%,#e1e1e1)); /* chrome,safari4+ */
-    background: -webkit-linear-gradient(top,  #999999 0%,#e1e1e1 100%); /* chrome10+,safari5.1+ */
-    background: -o-linear-gradient(top,  #999999 0%,#e1e1e1 100%); /* opera 11.10+ */
-    background: -ms-linear-gradient(top,  #999999 0%,#e1e1e1 100%); /* ie10+ */
-    background: linear-gradient(to bottom,  #999999 0%,#e1e1e1 100%); /* w3c */
+    color-stop(100%,##989F98)); /* chrome,safari4+ */
+    background: -webkit-linear-gradient(top,  #999999 0%,##989F98 100%); /* chrome10+,safari5.1+ */
+    background: -o-linear-gradient(top,  #999999 0%,##989F98 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(top,  #999999 0%,##989F98 100%); /* ie10+ */
+    background: linear-gradient(to bottom,  #999999 0%,##989F98 100%); /* w3c */
     filter: progid:dximagetransform.microsoft.gradient( 
-    startcolorstr="#999999", endcolorstr="#e1e1e1",gradienttype=0 ); /* ie6-9 */
+    startcolorstr="#999999", endcolorstr="##989F98",gradienttype=0 ); /* ie6-9 */
 	border:3px solid #e5e5e5;
 	border-radius:50%;
 	cursor: pointer;
@@ -1945,7 +1945,7 @@ website:    http://www.themepunch.com
  
  .metis.tparrows:hover {
    background:#fff;
-   background:rgba(255,255,255,0.75);
+   background:rgba(#0,#0,#0,0.75);
  }
  
  .metis.tparrows:before {
@@ -2019,14 +2019,14 @@ website:    http://www.themepunch.com
 .metis .tp-bullet.selected,
 .metis .tp-bullet:hover  {
   
-   background: rgba(255,255,255,1);
-  background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,255,255,1)), color-stop(100%, rgba(119,119,119,1)));
-  background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(119,119,119,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#ffffff", endColorstr="#777777", GradientType=0 );
+   background: rgba(#0,#0,#0,1);
+  background: -moz-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(#0,#0,#0,1)), color-stop(100%, rgba(119,119,119,1)));
+  background: -webkit-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -o-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: -ms-linear-gradient(top, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  background: linear-gradient(to bottom, rgba(#0,#0,#0,1) 0%, rgba(119,119,119,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#000", endColorstr="#777777", GradientType=0 );
  
       }
 .metis .tp-bullet-title:after {
@@ -2113,7 +2113,7 @@ website:    http://www.themepunch.com
         height: 100%;
         width: 88px;
         background: rgba(0, 0, 0, 0.15);
-        border-right: 1px solid rgba(255, 255, 255, 0.10);
+        border-right: 1px solid rgba(#0, #0, #0, 0.10);
         left: 0px;
         top: 0px;
         position: absolute;
@@ -2234,7 +2234,7 @@ website:    http://www.themepunch.com
 /* BULLETS */
 .uranus .tp-bullet{
 	border-radius: 50%;
-  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0);
+  box-shadow: 0 0 0 2px rgba(#0, #0, #0, 0);
   -webkit-transition: box-shadow 0.3s ease;
   transition: box-shadow 0.3s ease;
   background:transparent;
@@ -2251,7 +2251,7 @@ website:    http://www.themepunch.com
 
 
 .uranus .tp-bullet-inner {
-  background-color: rgba(255, 255, 255, 0.7);
+  background-color: rgba(#0, #0, #0, 0.7);
   -webkit-transition: background-color 0.3s ease, -webkit-transform 0.3s ease;
   transition: background-color 0.3s ease, transform 0.3s ease;
   top: 0;
@@ -2261,7 +2261,7 @@ website:    http://www.themepunch.com
   outline: none;
   border-radius: 50%;
   background-color: #FFF;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(#0, #0, #0, 0.3);
   text-indent: -999em;
   cursor: pointer;
   position: absolute;
@@ -2478,7 +2478,7 @@ opacity:1
   font-family: "revicons";
   font-size:12px;
   color:#aaa;
-  color:rgba(255,255,255,0.75);
+  color:rgba(#0,#0,#0,0.75);
   display:block;
   line-height: 12px;
   text-align: left;    
@@ -2551,7 +2551,7 @@ padding: 9px 10px; }
 .zeus .tp-tab:hover .tp-tab-title,
 .zeus .tp-tab.selected .tp-tab-title {
  color: #000;
-  background:rgba(255,255,255,1); 
+  background:rgba(#0,#0,#0,1); 
 }
 
 
@@ -2588,7 +2588,7 @@ opacity:1
   font-family: "revicons";
   font-size:12px;
   color:#aaa;
-  color:rgba(255,255,255,0.75);
+  color:rgba(#0,#0,#0,0.75);
   display:block;
   line-height: 12px;
   text-align: left;    

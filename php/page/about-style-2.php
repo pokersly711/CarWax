@@ -4,7 +4,7 @@
 				<div class="template-header template-header-background template-header-background-1">
 <?php
 		Template::includeTemplateHeaderTop();
-		Template::includeTemplateHeaderBottom('About Style 2',array(array(Template::getPageURL('home',false),'Home'),array('#','About Style 2')));
+		Template::includeTemplateHeaderBottom('About Style 2',array(array(Template::getPageURL('home',false),'Home'),array('#','About Us')));
 ?>
 				
 				</div>
@@ -17,9 +17,9 @@
 						
 						<!-- Header + subheader -->
 						<div class="template-component-header-subheader">
-							<h2>
-							<div></div>
-							<span>To meet your needs</span>
+							<h2>Meet Our Family</h2>
+							<div><img src="./media/image/jhrLogo.jpg" width="750px" height="57px"></div>
+							<span>Our Parent Company</span>
 						</div>		
 						
 						<!-- Text -->
@@ -42,21 +42,21 @@
 								<!-- Left column -->
 								<li class="template-layout-column-left">
 									<span class="template-icon-feature-eco-nature"></span>
-									<h5>Organic Products</h5>
-									<p>We use the most modern and up-to-date water reclamation modules as a part of our eco-friendly wash systems.</p>
+									<h5>Hyperactive Digital Solutions</h5>
+									<p>If you own a business, a personal project, or just an idea, we have all the digital solutions needed to take it to the masses.</p>
 									<ul class="template-component-list template-margin-top-2">
-										<li><span class="template-icon-meta-check"></span>We offer multiple services at a great value</li>
-										<li><span class="template-icon-meta-check"></span>Multiple car wash locations throughout Portland</li>
-										<li><span class="template-icon-meta-check"></span>Biodegradable and eco-friendly products</li>
-										<li><span class="template-icon-meta-check"></span>Pay for your wash electronically and securely</li>
-										<li><span class="template-icon-meta-check"></span>Trained and skilled car wash crew members</li>
+										<li><span class="template-icon-meta-check"></span>Web Development</li>
+										<li><span class="template-icon-meta-check"></span>App Development</li>
+										<li><span class="template-icon-meta-check"></span>Cloud Services</li>
+										<li><span class="template-icon-meta-check"></span>cloud Services</li>
+										<li><span class="template-icon-meta-check"></span>Graphic Design</li>
 									</ul>
 								</li>
 								
 								<!-- Center column -->
 								<li class="template-layout-column-center">
 									<span class="template-icon-feature-team"></span>
-									<h5>Experienced Team</h5>
+									<h5>NoDirt Organics & Aquaponics</h5>
 									<p>Our company was founded back in 2005 by a team of experts with more then 10 years of professional car wash experience.</p>
 									<ul class="template-component-list template-margin-top-2">
 										<li><span class="template-icon-meta-check"></span>We are very open and easy to reach company</li>
@@ -70,7 +70,7 @@
 								<!-- Right column -->
 								<li class="template-layout-column-right">
 									<span class="template-icon-feature-payment"></span>
-									<h5>Safe Payments</h5>
+									<h5>The Outdoor Pet</h5>
 									<p>Our goal is to provide our customers with the friendliest, most convenient hand car wash experience possible.</p>
 									<ul class="template-component-list template-margin-top-2">
 										<li><span class="template-icon-meta-check"></span>We offer multiple services at a great value</li>
@@ -111,8 +111,8 @@
 									<!-- Panel 1 -->
 									<div id="tab-1-about-us">
 										<p class="template-component-italic template-padding-reset">
-											We are dedicated to providing quality service, customer satisfaction at a great value in multiple locations offering convenient hours. 
-											We can deliver the best results.
+											We are dedicated to providing quality service, customer satisfaction conventiently and effeciently passing on the savings our clients. 
+											No other service provider works as hard as us at customer satisfaction and convenience.
 										</p>
 										<p class="template-padding-reset template-margin-top-2">
 											Etiam ullamcorper est terminal metro. Suspendisse a novum etos pellentesque a non felis maecenas module vimeo at malesuada.
