@@ -318,8 +318,13 @@ body,*,input,textarea
 .template-component-testimonial-list ul>li>span,
 .template-component-team-list>ul>li>.template-component-team-list-position
 {
+<<<<<<< Updated upstream
 	font-family:"Poppins", sans-serif;
 	color: #43F036;
+=======
+	font-family:"Exo", sans-serif;
+	color: #c0ff00;
+>>>>>>> Stashed changes
 }
 
 /******************************************************************************/
@@ -371,12 +376,20 @@ body,*,input,textarea
 	.tparrows.preview1::after,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
+<<<<<<< Updated upstream
 		color:#43F036;
+=======
+		color:#c0ff00;
+>>>>>>> Stashed changes
 	}
 	
 	::-moz-selection
 	{
+<<<<<<< Updated upstream
 		color:#43F036;
+=======
+		color:#c0ff00;
+>>>>>>> Stashed changes
 	}
 	
 	.template-header .template-header-top.template-header-top-sticky .template-header-top-icon-list a,
@@ -419,13 +432,17 @@ body,*,input,textarea
 	.flexnav .touch-button.template-icon-meta-arrow-large-tb:before,
 	.fancybox-title.fancybox-title-inside-wrap
 	{
+<<<<<<< Updated upstream
 		color: #43F036;
+=======
+		color: #c0ff00;
+>>>>>>> Stashed changes
 	}
 
 	.template-header .template-header-top .template-header-top-icon-list a,
 	.template-header .template-header-top .template-component-menu-default>.sf-menu>li>a
 	{
-		color:rgba(26,244,41,0.85);
+		color:rgba(192,255,0,0.85);
 	}
 	
 	body,
@@ -447,7 +464,11 @@ body,*,input,textarea
 	.dtpicker-overlay .dtpicker-compValue:hover,
 	.dtpicker-buttonCont .dtpicker-button
 	{
+<<<<<<< Updated upstream
 		color:............................. #43F036;
+=======
+		color:............................. #808080;
+>>>>>>> Stashed changes
 	}
 	
 	.template-header .template-header-top.template-header-top-sticky .template-header-top-icon-list a:hover,
@@ -474,7 +495,11 @@ body,*,input,textarea
 	.flexnav .touch-button.template-icon-meta-arrow-large-tb:hover:before,
 	[class^="template-icon-feature-"],[class*=" template-icon-feature-"] 
 	{
+<<<<<<< Updated upstream
 		color: #B5BBB5;
+=======
+		color: #808080
+>>>>>>> Stashed changes
 	}
 	
 	h2,h3,h4,h5,h6,
@@ -487,18 +512,30 @@ body,*,input,textarea
 	.template-component-booking .template-component-booking-service-list>li>.template-component-booking-service-name,
 	.template-component-recent-post>li>a>span
 	{
+<<<<<<< Updated upstream
 		color:#43F036;
+=======
+		color:#ffff00;
+>>>>>>> Stashed changes
 	}
 	
 	a,
 	.template-component-list li>span
 	{
+<<<<<<< Updated upstream
 		color:#B5BBB5;
+=======
+		color:#808080;
+>>>>>>> Stashed changes
 	}
 	
 	.template-page-404 .template-content h1
 	{
+<<<<<<< Updated upstream
 		color:#B5BBB5;
+=======
+		color:#c0ff00;
+>>>>>>> Stashed changes
 	}
 		
 	/**************************************************************************/
@@ -508,7 +545,11 @@ body,*,input,textarea
 	.template-footer,
 	.template-component-menu-default>.sf-menu>li ul
 	{
+<<<<<<< Updated upstream
 		background-color:#2E362D;
+=======
+		background-color:#000000;
+>>>>>>> Stashed changes
 	}
 		
 	.template-header .template-header-top.template-header-top-sticky,
@@ -519,20 +560,32 @@ body,*,input,textarea
 	.flexnav li ul li a,
 	.flexnav .touch-button
 	{
+<<<<<<< Updated upstream
 		background-color:#2E362D;
+=======
+		background-color:#5b5b5b;
+>>>>>>> Stashed changes
 	}
 	
 	.template-component-google-map .template-component-google-map-button,
 	.flexnav li.item-with-ul ul a
 	{
+<<<<<<< Updated upstream
 		background-color:#2E362D;
+=======
+		background-color:#c0ff00;
+>>>>>>> Stashed changes
 	}
 	
 	.template-component-header-subheader>div,
 	.template-component-counter-bar-list>ul>li>div,
 	.template-component-divider
 	{
+<<<<<<< Updated upstream
 		background-color:#2E362D;
+=======
+		background-color:#000000;
+>>>>>>> Stashed changes
 	}
 	
 	.template-footer .template-component-button:hover,
@@ -557,24 +610,40 @@ body,*,input,textarea
 	.dtpicker-components .dtpicker-compButton:hover,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
+<<<<<<< Updated upstream
 		background-color:#2E362D;
+=======
+		background-color:#808080;
+>>>>>>> Stashed changes
 	}
 	
 	::-moz-selection
 	{
+<<<<<<< Updated upstream
 		background-color:#2E362D;
+=======
+		background-color:#808080;
+>>>>>>> Stashed changes
 	}
 	
 	.template-background-color-1,
 	.template-component-blockquote
 	{
+<<<<<<< Updated upstream
 		background-color:#F9F9F9;
+=======
+		background-color:#5b5b5b;
+>>>>>>> Stashed changes
 	}
 	
 	.template-background-color-2,
 	.dtpicker-overlay .dtpicker-compValue:focus
 	{
+<<<<<<< Updated upstream
 		background-color:#2E362D;
+=======
+		background-color:#5b5b5b;
+>>>>>>> Stashed changes
 	}
 	
 	input
@@ -584,12 +653,20 @@ body,*,input,textarea
 	
 	body>.template-component-search-form
 	{
+<<<<<<< Updated upstream
 		background-color:#2E362D;
+=======
+		background-color:#5b5b5b;
+>>>>>>> Stashed changes
 	}
 	
 	.template-qtip.template-qtip-success.qtip
 	{
+<<<<<<< Updated upstream
 		background-color:#2E362D;
+=======
+		background-color:#ffff009;
+>>>>>>> Stashed changes
 	}
 	
 	.template-qtip.template-qtip-error.qtip
@@ -599,7 +676,11 @@ body,*,input,textarea
 	
 	.template-component-go-to-top
 	{
+<<<<<<< Updated upstream
 		background-color:rgba(46,54,45,0.8);
+=======
+		background-color:rgba(192,255,0,0.4);
+>>>>>>> Stashed changes
 	}
 	
 	.template-component-image .template-component-image-hover
@@ -615,12 +696,16 @@ body,*,input,textarea
 	.tparrows.preview1::after,
 	.tp-bullets.preview1 .tp-bullet
 	{
-		background:rgba(0,0,0,0.15);
+		background:rgba(192,255,0,0.15);
 	}
 	
 	.fancybox-skin
 	{
+<<<<<<< Updated upstream
 		background:#2E362D;
+=======
+		background:#374900;
+>>>>>>> Stashed changes
 	}
 	
 	.tparrows.preview1:hover::after,
