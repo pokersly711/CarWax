@@ -1,5 +1,4 @@
-#21E012/*******************************************************************************
-
+/***************************************************************************************
 [TABLE OF CONTENTS]
 
 + Reset styles	
@@ -320,7 +319,7 @@ body,*,input,textarea
 .template-component-team-list>ul>li>.template-component-team-list-position
 {
 	font-family:"Poppins", sans-serif;
-	color: #849526;
+	color: #43F036;
 }
 
 /******************************************************************************/
@@ -372,12 +371,12 @@ body,*,input,textarea
 	.tparrows.preview1::after,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
-		color:#00FF40;
+		color:#43F036;
 	}
 	
 	::-moz-selection
 	{
-		color:#00FF40;
+		color:#43F036;
 	}
 	
 	.template-header .template-header-top.template-header-top-sticky .template-header-top-icon-list a,
@@ -420,7 +419,7 @@ body,*,input,textarea
 	.flexnav .touch-button.template-icon-meta-arrow-large-tb:before,
 	.fancybox-title.fancybox-title-inside-wrap
 	{
-		color: #00FF40;
+		color: #43F036;
 	}
 
 	.template-header .template-header-top .template-header-top-icon-list a,
@@ -448,7 +447,7 @@ body,*,input,textarea
 	.dtpicker-overlay .dtpicker-compValue:hover,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-		color:............................. #00FF40;
+		color:............................. #43F036;
 	}
 	
 	.template-header .template-header-top.template-header-top-sticky .template-header-top-icon-list a:hover,
@@ -475,7 +474,7 @@ body,*,input,textarea
 	.flexnav .touch-button.template-icon-meta-arrow-large-tb:hover:before,
 	[class^="template-icon-feature-"],[class*=" template-icon-feature-"] 
 	{
-		color: #617b84;
+		color: #B5BBB5;
 	}
 	
 	h2,h3,h4,h5,h6,
@@ -488,18 +487,18 @@ body,*,input,textarea
 	.template-component-booking .template-component-booking-service-list>li>.template-component-booking-service-name,
 	.template-component-recent-post>li>a>span
 	{
-		color:#617b84;
+		color:#43F036;
 	}
 	
 	a,
 	.template-component-list li>span
 	{
-		color:#00FF40;
+		color:#B5BBB5;
 	}
 	
 	.template-page-404 .template-content h1
 	{
-		color:#f2f248;
+		color:#B5BBB5;
 	}
 		
 	/**************************************************************************/
@@ -509,7 +508,7 @@ body,*,input,textarea
 	.template-footer,
 	.template-component-menu-default>.sf-menu>li ul
 	{
-		background-color:#2d3236;
+		background-color:#2E362D;
 	}
 		
 	.template-header .template-header-top.template-header-top-sticky,
@@ -520,20 +519,20 @@ body,*,input,textarea
 	.flexnav li ul li a,
 	.flexnav .touch-button
 	{
-		background-color:#2d3236;
+		background-color:#2E362D;
 	}
 	
 	.template-component-google-map .template-component-google-map-button,
 	.flexnav li.item-with-ul ul a
 	{
-		background-color:#617b84;
+		background-color:#2E362D;
 	}
 	
 	.template-component-header-subheader>div,
 	.template-component-counter-bar-list>ul>li>div,
 	.template-component-divider
 	{
-		background-color:#2d3236;
+		background-color:#2E362D;
 	}
 	
 	.template-footer .template-component-button:hover,
@@ -558,24 +557,24 @@ body,*,input,textarea
 	.dtpicker-components .dtpicker-compButton:hover,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
-		background-color:#2d3236;
+		background-color:#2E362D;
 	}
 	
 	::-moz-selection
 	{
-		background-color:#2d3236;
+		background-color:#2E362D;
 	}
 	
 	.template-background-color-1,
 	.template-component-blockquote
 	{
-		background-color:#2d3236;
+		background-color:#F9F9F9;
 	}
 	
 	.template-background-color-2,
 	.dtpicker-overlay .dtpicker-compValue:focus
 	{
-		background-color:#2d3236;
+		background-color:#2E362D;
 	}
 	
 	input
@@ -585,32 +584,32 @@ body,*,input,textarea
 	
 	body>.template-component-search-form
 	{
-		background-color:#617b84;
+		background-color:#2E362D;
 	}
 	
 	.template-qtip.template-qtip-success.qtip
 	{
-		background-color:#617b84;
+		background-color:#2E362D;
 	}
 	
 	.template-qtip.template-qtip-error.qtip
 	{
-		background-color:#617b84;
+		background-color:#2E362D;
 	}
 	
 	.template-component-go-to-top
 	{
-		background-color:rgba(26,244,41,0.4);
+		background-color:rgba(46,54,45,0.8);
 	}
 	
 	.template-component-image .template-component-image-hover
 	{	
-		background:rgba(26,244,41,0.3);
+		background:rgba(46,54,45,0.8);
 	}
 	
 	.template-component-image .template-component-image-hover>span>span>span.template-component-image-hover-divider
 	{
-		background:rgba(255,255,255,0.5);
+		background:rgba(46,54,45,0.8);
 	}
 	
 	.tparrows.preview1::after,
@@ -621,14 +620,14 @@ body,*,input,textarea
 	
 	.fancybox-skin
 	{
-		background:#2d3236;
+		background:#2E362D;
 	}
 	
 	.tparrows.preview1:hover::after,
 	.tp-bullets.preview1 .tp-bullet:hover,
 	.tp-bullets.preview1 .tp-bullet.selected 
 	{
-		background:#1af429 !important;
+		background:#2E362D !important;
 	}
 
 	.template-component-button,
@@ -643,17 +642,17 @@ body,*,input,textarea
 	
 	.template-footer .template-footer-bottom
 	{
-		border-color:#2d4010;
+		border-color:#2E362D;
 	}
 	
 	.template-header .template-header-top .template-header-top-icon-list .template-icon-meta-menu
 	{
-		border-color:rgba(255,255,255,0.85);
+		border-color:rgba(46,54,45,0.85);
 	}
 	
 	.template-header .template-header-top .template-header-top-icon-list .template-icon-meta-menu:hover
 	{
-		border-color:#2d4010;
+		border-color:#2E362D;
 	}
 	
 	input,
@@ -688,7 +687,7 @@ body,*,input,textarea
 	.flexnav li a,
 	.flexnav .touch-button
 	{
-		border-color:#2d4010;
+		border-color:#2E362D;
 	}
 
 	.template-footer .template-component-button:hover,
@@ -710,22 +709,22 @@ body,*,input,textarea
 	.dtpicker-components .dtpicker-compButton:hover,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
-		border-color:#ffffff;
+		border-color:#2E362D;
 	}
 	
 	body>.template-component-search-form input
 	{
-		border-color:rgba(255,255,255,0.3);
+		border-color:rgba(46,54,45,0.8);
 	}
 	
 	.template-qtip.template-qtip-success.qtip .qtip-tip 
 	{
-		border-color:#2df010;
+		border-color:#F0ED10;
 	}
 	
 	.template-qtip.template-qtip-error.qtip .qtip-tip
 	{
-		border-color:#FF9600;
+		border-color:#E8253C;
 	}
 	
 	.template-footer .template-component-button,
@@ -754,7 +753,7 @@ body,*,input,textarea
 	.template-color-white .template-component-testimonial-list .template-component-testimonial-list-navigation .template-component-testimonial-list-navigation-right,
 	.dtpicker-components .dtpicker-compButton:hover
 	{
-		color:#78d918;
+		color:white;
 	}
 	
 	.template-color-white .template-component-process-list>ul>li>span,
@@ -767,16 +766,15 @@ body,*,input,textarea
 	{
 		border-color:rgba(255,255,255,0.9);
 	}
-	
 	.template-color-white.template-component-button,
 	.template-color-white .template-component-button
 	{
-		border-color:#FFFFFF;
+		border-color:white;
 	}
 	
 	.template-color-white .template-component-header-subheader>div
 	{
-		background-color:#FFFFFF;
+		background-color:white;
 	}
 	
 /******************************************************************************/

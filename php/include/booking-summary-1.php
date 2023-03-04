@@ -9,8 +9,8 @@
 					<span>/</span>
 					<span>4</span>	
 				</span>
-				<h3>Book Our Service</h3>
-				<h5>Please provide us with your contact information.</h5>
+				<h3>Your Shine Reservation</h3>
+				<h5>If your not sure of a location, please use your home address until you have an exact place to get services.</h5>
 			</div>
 			
 			
@@ -63,7 +63,7 @@
 					<!-- Second name -->
 					<li class="template-layout-column-right template-margin-bottom-reset">
 						<div class="template-component-form-field">
-							<label for="booking-form-second-name">Second Name *</label>
+							<label for="booking-form-second-name">Last Name *</label>
 							<input type="text" name="booking-form-second-name" id="booking-form-second-name"/>
 						</div>
 					</li>	
@@ -127,7 +127,7 @@
 					<!-- Message -->
 					<li>
 						<div class="template-component-form-field">
-							<label for="booking-form-message">Message *</label>
+							<label for="booking-form-message">Please put the Location here, plus any other important details. *</label>
 							<textarea rows="1" cols="1" name="booking-form-message" id="booking-form-message"></textarea>
 						</div>						
 					</li>
