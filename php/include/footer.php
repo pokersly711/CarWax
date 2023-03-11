@@ -73,6 +73,7 @@
 								<li><a href="http://themeforest.net/user/QuanticaLabs/portfolio?ref=quanticalabs" class="template-icon-social-envato" target="_blank"></a></li>
 								<li><a href="https://www.behance.net/quanticalabs" class="template-icon-social-behance" target="_blank"></a></li>
 								<li><a href="https://www.youtube.com/user/quanticalabs" class="template-icon-social-youtube" target="_blank"></a></li>
+								<li><a href="https://www.patreon.com/user/quanticalabs" class="template-icon-social-patreon" target="_blank"></a></li>
 							</ul>
 							
 							<!-- Copyright -->
