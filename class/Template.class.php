@@ -201,9 +201,9 @@ class Template
 						<!-- Social icons -->
 						<div class="template-header-top-icon-list template-component-social-icon-list-1">
 							<ul class="template-component-social-icon-list">
-								<li><a href="https://twitter.com/quanticalabs" class="template-icon-social-twitter" target="_blank"></a></li>
-								<li><a href="https://www.facebook.com/QuanticaLabs" class="template-icon-social-facebook" target="_blank"></a></li>
-								<li><a href="https://dribbble.com/quanticalabs" class="template-icon-social-dribbble" target="_blank"></a></li>
+								<li><a href="https://twitter.com/" class="template-icon-social-twitter" target="_blank"></a></li>
+								<li><a href="https://www.facebook.com/carvenienceondemand" class="template-icon-social-facebook" target="_blank"></a></li>
+								<li><a href="https://dribbble.com/" class="template-icon-social-dribbble" target="_blank"></a></li>
 								<li><a href="'.Template::getPageURL('book-your-wash',false).'" class="template-icon-meta-cart"></a></li>
 								<li><a href="#" class="template-icon-meta-search"></a></li>
 								<li><a href="#" class="template-icon-meta-menu"></a></li>
