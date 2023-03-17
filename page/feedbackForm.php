@@ -4,7 +4,7 @@
 				<div class="template-header template-header-background template-header-background-3">
 <?php
 		Template::includeTemplateHeaderTop();
-		Template::includeTemplateHeaderBottom('Contact style 2',array(array(Template::getPageURL('home',false),'Home'),array('#','Contact style 2')));
+		Template::includeTemplateHeaderBottom('Feeback Form',array(array(Template::getPageURL('home',false),'Home'),array('#','Feedback Form')));
 ?>
 				
 				</div>

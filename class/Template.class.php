@@ -96,43 +96,22 @@ class Template
 									<ul class="sf-menu">
 										'.self::createMenuItem('home','Home').'
 										<li>
-											'.self::createMenuItem('#','Pages',false).'
-											<ul>
-												'.self::createMenuItem('about-style-1','About Style 1').'
-												'.self::createMenuItem('about-style-2','About Style 2').'
-												'.self::createMenuItem('service-style-1','Services Style 1').'
-												'.self::createMenuItem('service-style-2','Services Style 2').'
-												'.self::createMenuItem('single-service-right-sidebar','Single Service').'
-												'.self::createMenuItem('404','Page 404').'
-											</ul>
+												'.self::createMenuItem('gallery','Gallery').'
+												'.self::createMenuItem('betaSpecial','Beta Special').'
+												'.self::createMenuItem('packagsPrepaid','Pre-paid Packages').'
+												'.self::createMenuItem('commercialFleet','Commercial Accounts').'
+												
+
+									
 										</li>
-										'.self::createMenuItem('book-your-wash','Booking').'
-										<li>
-											'.self::createMenuItem('#','Services',false).'
-											<ul>
-												'.self::createMenuItem('service-style-1','Services Style 1').'
-												'.self::createMenuItem('service-style-2','Services Style 2').'
-												'.self::createMenuItem('single-service-right-sidebar','Single Service - Right Sidebar').'
-												'.self::createMenuItem('single-service-left-sidebar','Single Service - Left Sidebar').'
-											</ul>										
+												'.self::createMenuItem('book-your-wash','Booking').'
+										
+										
 										</li>
+										
 										<li>
-											'.self::createMenuItem('#','Blog',false).'
-											<ul>
-												'.self::createMenuItem('blog-small-image-right-sidebar','Blog Small Image - Right Sidebar').'
-												'.self::createMenuItem('blog-small-image-left-sidebar','Blog Small Image - Left Sidebar').'
-												'.self::createMenuItem('blog-large-image-right-sidebar','Blog Large Image - Right Sidebar').'
-												'.self::createMenuItem('blog-large-image-left-sidebar','Blog Large Image - Left Sidebar').'
-												'.self::createMenuItem('single-post-right-sidebar','Single Post - Right Sidebar').'
-												'.self::createMenuItem('single-post-left-sidebar','Single Post - Left Sidebar').'
-											</ul>
-										</li>
-										'.self::createMenuItem('gallery','Gallery').'
-										<li>
-											'.self::createMenuItem('#','Contact',false).'
-											<ul>
-												'.self::createMenuItem('contact-style-1','Contact Style 1').'
-												'.self::createMenuItem('contact-style-2','Contact Style 2').'
+											
+												'.self::createMenuItem('OurFamily','Meet Our Family').'
 											</ul>
 										</li>
 									</ul>
@@ -147,45 +126,20 @@ class Template
 										<li><a href="#"><span class="touch-button template-icon-meta-arrow-large-tb template-component-menu-button-close"></span>&nbsp;</a></li>
 										'.self::createMenuItem('home','Home').'
 										<li>
-											'.self::createMenuItem('#','Pages',false).'
-											<ul>
-												'.self::createMenuItem('about-style-1','About Style 1').'
-												'.self::createMenuItem('about-style-2','About Style 2').'
-												'.self::createMenuItem('service-style-1','Services Style 1').'
-												'.self::createMenuItem('service-style-2','Services Style 2').'
-												'.self::createMenuItem('single-service-right-sidebar','Single Service').'
-												'.self::createMenuItem('404','Page 404').'
-											</ul>
+												'.self::createMenuItem('gallery','Gallery').'
+												'.self::createMenuItem('betaSpecial','Beta Special').'
+												'.self::createMenuItem('packagsPrepaid','Pre-paid Packages').'
+												'.self::createMenuItem('commercialFleet','Commercial Accounts').'
+												
+										
 										</li>
-										'.self::createMenuItem('book-your-wash','Booking').'
+												'.self::createMenuItem('book-your-wash','Booking').'
 										<li>
-											'.self::createMenuItem('#','Services',false).'
-											<ul>
-												'.self::createMenuItem('service-style-1','Services Style 1').'
-												'.self::createMenuItem('service-style-2','Services Style 2').'
-												'.self::createMenuItem('single-service-right-sidebar','Single Service - Right Sidebar').'
-												'.self::createMenuItem('single-service-left-sidebar','Single Service - Left Sidebar').'
-											</ul>										
+											
+												'.self::createMenuItem('OurFamily','Meet Our Family').'								
 										</li>
-										<li>
-											'.self::createMenuItem('#','Blog',false).'
-											<ul>
-												'.self::createMenuItem('blog-small-image-right-sidebar','Blog Small Image - Right Sidebar').'
-												'.self::createMenuItem('blog-small-image-left-sidebar','Blog Small Image - Left Sidebar').'
-												'.self::createMenuItem('blog-large-image-right-sidebar','Blog Large Image - Right Sidebar').'
-												'.self::createMenuItem('blog-large-image-left-sidebar','Blog Large Image - Left Sidebar').'
-												'.self::createMenuItem('single-post-right-sidebar','Single Post - Right Sidebar').'
-												'.self::createMenuItem('single-post-left-sidebar','Single Post - Left Sidebar').'
-											</ul>
-										</li>
-										'.self::createMenuItem('gallery','Gallery').'
-										<li>
-											'.self::createMenuItem('#','Contact',false).'
-											<ul>
-												'.self::createMenuItem('contact-style-1','Contact Style 1').'
-												'.self::createMenuItem('contact-style-2','Contact Style 2').'
-											</ul>
-										</li>
+										
+									
 									</ul>							
 								</div>
 								
