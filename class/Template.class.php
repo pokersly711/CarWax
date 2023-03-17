@@ -97,10 +97,10 @@ class Template
 										'.self::createMenuItem('home','Home').'
 										<li>
 												'.self::createMenuItem('gallery','Gallery').'
-												'.self::createMenuItem('betaSpecial','Beta Special').'
-												'.self::createMenuItem('packagsPrepaid','Pre-paid Packages').'
-												'.self::createMenuItem('commercialFleet','Commercial Accounts').'
-												
+												'.self::createMenuItem('betaSpecial','Special').'
+												'.self::createMenuItem('packagsPrepaid','Packages').'
+												'.self::createMenuItem('commercialFleet','Commercial').'
+												'.self::createMenuItem('OurFamily','Our Family').'
 
 									
 										</li>
@@ -109,11 +109,7 @@ class Template
 										
 										</li>
 										
-										<li>
-											
-												'.self::createMenuItem('OurFamily','Meet Our Family').'
-											</ul>
-										</li>
+										
 									</ul>
 								</div>
 								
@@ -130,16 +126,11 @@ class Template
 												'.self::createMenuItem('betaSpecial','Beta Special').'
 												'.self::createMenuItem('packagsPrepaid','Pre-paid Packages').'
 												'.self::createMenuItem('commercialFleet','Commercial Accounts').'
-												
+												'.self::createMenuItem('OurFamily','Meet Our Family').'	
 										
 										</li>
 												'.self::createMenuItem('book-your-wash','Booking').'
-										<li>
-											
-												'.self::createMenuItem('OurFamily','Meet Our Family').'								
-										</li>
 										
-									
 									</ul>							
 								</div>
 								
