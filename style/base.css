@@ -310,13 +310,18 @@ body,*,input,textarea
 	font-family:"Racing Sans One";
 }
 
+
+
+
 .template-component-blockquote,
 .template-component-booking .template-component-booking-item-header>h5,	
 .template-component-header-subheader span,
 .template-component-italic,
 .template-component-testimonial-list ul>li>p,
 .template-component-testimonial-list ul>li>span,
-.template-component-team-list>ul>li>.template-component-team-list-position
+.template-component-team-list>ul>li,
+.template-component-team-list-position
+{
 
 <<<<<<< Updated upstream
 	font-family:"Poppins", sans-serif;
