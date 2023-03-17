@@ -10,7 +10,7 @@ website:    http://www.themepunch.com
 -----------------------------------------------------------------------------*/
 .ares.tparrows {
   cursor:pointer;
-  background:#fff;
+  background:#000000;
   min-width:60px;
     min-height:60px;
   position:absolute;
@@ -39,8 +39,10 @@ website:    http://www.themepunch.com
 .ares.tparrows.tp-rightarrow:before {
   content: "\e81e";
 }
-.ares.tparrows:hover:bef:#000;
-      }
+.ares.tparrows:hover:before {
+
+} 
+      
 .ares .tp-title-wrap { 
   position:absolute;
   z-index:1;
