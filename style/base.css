@@ -317,12 +317,12 @@ body,*,input,textarea
 .template-component-testimonial-list ul>li>p,
 .template-component-testimonial-list ul>li>span,
 .template-component-team-list>ul>li>.template-component-team-list-position
-{
+
 <<<<<<< Updated upstream
 	font-family:"Poppins", sans-serif;
 	color: #43F036;
 =======
-	font-family:"Exo", sans-serif;
+font-family:"Exo", sans-serif;
 	color: #c0ff00;
 >>>>>>> Stashed changes
 }
@@ -437,7 +437,7 @@ body,*,input,textarea
 =======
 		color: #c0ff00;
 >>>>>>> Stashed changes
-	}
+
 
 	.template-header .template-header-top .template-header-top-icon-list a,
 	.template-header .template-header-top .template-component-menu-default>.sf-menu>li>a
