@@ -319,7 +319,7 @@ body,*,input,textarea
 .template-component-team-list>ul>li>.template-component-team-list-position
 {
 <<<<<<< Updated upstream
-	font-family:"Expo", sans-serif;
+	font-family:"Exo", sans-serif;
 	color: #43F036;
 =======
 	font-family:"Exo", sans-serif;
@@ -377,7 +377,7 @@ body,*,input,textarea
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
 <<<<<<< Updated upstream
-		color:#ffffff;
+		color:#43F036;
 =======
 		color:#43F036;
 >>>>>>> Stashed changes
@@ -433,7 +433,7 @@ body,*,input,textarea
 	.fancybox-title.fancybox-title-inside-wrap
 	{
 <<<<<<< Updated upstream
-		color: #ffffff;
+		color: #43F036;
 =======
 		color: #43F036;
 >>>>>>> Stashed changes
@@ -496,7 +496,7 @@ body,*,input,textarea
 	[class^="template-icon-feature-"],[class*=" template-icon-feature-"] 
 	{
 <<<<<<< Updated upstream
-		color: #B5BBB5;
+		color: #5b605b;
 =======
 		color: #808080
 >>>>>>> Stashed changes
@@ -532,7 +532,7 @@ body,*,input,textarea
 	.template-page-404 .template-content h1
 	{
 <<<<<<< Updated upstream
-		color:#43F036;
+		color:#000000;
 =======
 		color: #43f036;;
 >>>>>>> Stashed changes
@@ -561,7 +561,7 @@ body,*,input,textarea
 	.flexnav .touch-button
 	{
 <<<<<<< Updated upstream
-		background-color:#000000;
+		background-color:#5b605b;
 =======
 		background-color:#5b5b5b;
 >>>>>>> Stashed changes
@@ -611,7 +611,7 @@ body,*,input,textarea
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color:#5b605b;
 =======
 		background-color:#808080;
 >>>>>>> Stashed changes
@@ -620,7 +620,7 @@ body,*,input,textarea
 	::-moz-selection
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color:#5b605b;
 =======
 		background-color:#808080;
 >>>>>>> Stashed changes
@@ -630,7 +630,7 @@ body,*,input,textarea
 	.template-component-blockquote
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color:#5b605b;
 =======
 		background-color:#5b5b5b;
 >>>>>>> Stashed changes
@@ -640,7 +640,7 @@ body,*,input,textarea
 	.dtpicker-overlay .dtpicker-compValue:focus
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color:#5b605b;
 =======
 		background-color:#5b5b5b;
 >>>>>>> Stashed changes
@@ -654,7 +654,7 @@ body,*,input,textarea
 	body>.template-component-search-form
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color:#5b605b;
 =======
 		background-color:#5b5b5b;
 >>>>>>> Stashed changes
@@ -663,7 +663,7 @@ body,*,input,textarea
 	.template-qtip.template-qtip-success.qtip
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color:#000000;
 =======
 		background-color:#ffff009;
 >>>>>>> Stashed changes
@@ -671,7 +671,7 @@ body,*,input,textarea
 	
 	.template-qtip.template-qtip-error.qtip
 	{
-		background-color:#2E362D;
+		background-color:#000000;
 	}
 	
 	.template-component-go-to-top
@@ -702,7 +702,7 @@ body,*,input,textarea
 	.fancybox-skin
 	{
 <<<<<<< Updated upstream
-		background:#00000;
+		background:#5b605b;
 =======
 		background:#374900;
 >>>>>>> Stashed changes
@@ -712,13 +712,13 @@ body,*,input,textarea
 	.tp-bullets.preview1 .tp-bullet:hover,
 	.tp-bullets.preview1 .tp-bullet.selected 
 	{
-		background:#2E362D !important;
+		background:#5b605b !important;
 	}
 
 	.template-component-button,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-		background-color:transparent;
+		background-color:#43F036;
 	}
 	
 	/**************************************************************************/
@@ -727,7 +727,7 @@ body,*,input,textarea
 	
 	.template-footer .template-footer-bottom
 	{
-		border-color:#2E362D;
+		border-color:#5b605b;
 	}
 	
 	.template-header .template-header-top .template-header-top-icon-list .template-icon-meta-menu
@@ -737,7 +737,7 @@ body,*,input,textarea
 	
 	.template-header .template-header-top .template-header-top-icon-list .template-icon-meta-menu:hover
 	{
-		border-color:#2E362D;
+		border-color:#000000;
 	}
 	
 	input,
@@ -772,7 +772,7 @@ body,*,input,textarea
 	.flexnav li a,
 	.flexnav .touch-button
 	{
-		border-color:#2E362D;
+		border-color:#43F036;
 	}
 
 	.template-footer .template-component-button:hover,
@@ -794,7 +794,7 @@ body,*,input,textarea
 	.dtpicker-components .dtpicker-compButton:hover,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
-		border-color:#2E362D;
+		border-color:#43F036;
 	}
 	
 	body>.template-component-search-form input
@@ -804,24 +804,24 @@ body,*,input,textarea
 	
 	.template-qtip.template-qtip-success.qtip .qtip-tip 
 	{
-		border-color:#F0ED10;
+		border-color:#000000;
 	}
 	
 	.template-qtip.template-qtip-error.qtip .qtip-tip
 	{
-		border-color:#E8253C;
+		border-color:#000000;
 	}
 	
 	.template-footer .template-component-button,
 	.template-footer .template-component-form-field
 	{
-		border-color:#2d4010;
+		border-color:#000000;
 	}
 	
 	.dtpicker-components .dtpicker-compButton,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-		border-color:#2d4010;
+		border-color:#000000;
 	}
 	
 	/**************************************************************************/
@@ -838,7 +838,7 @@ body,*,input,textarea
 	.template-color-white .template-component-testimonial-list .template-component-testimonial-list-navigation .template-component-testimonial-list-navigation-right,
 	.dtpicker-components .dtpicker-compButton:hover
 	{
-		color:white;
+		color:#000000;
 	}
 	
 	.template-color-white .template-component-process-list>ul>li>span,
@@ -854,12 +854,12 @@ body,*,input,textarea
 	.template-color-white.template-component-button,
 	.template-color-white .template-component-button
 	{
-		border-color:white;
+		border-color:#000000;
 	}
 	
 	.template-color-white .template-component-header-subheader>div
 	{
-		background-color:white;
+		background-color:#000000;
 	}
 	
 /******************************************************************************/
