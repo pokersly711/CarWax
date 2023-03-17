@@ -10,7 +10,7 @@ website:    http://www.themepunch.com
 -----------------------------------------------------------------------------*/
 .ares.tparrows {
   cursor:pointer;
-  background:#000000;
+  background:#5b6505b;
   min-width:60px;
     min-height:60px;
   position:absolute;
@@ -47,7 +47,7 @@ website:    http://www.themepunch.com
   position:absolute;
   z-index:1;
   display:inline-block;
-  background:#fff;
+  background:#000;
   min-height:60px;
   line-height:60px;
   top:0px;
@@ -77,7 +77,7 @@ border-radius:30px 0px 0px 30px;
   transition: transform 0.3s;
   transform:translateX(200px);  
   text-transform:uppercase;
-  color:#78f2/5;
+  color:#43f036;
   font-weight:400;
   font-size:14px;
   line-height:60px;
@@ -116,7 +116,7 @@ border-radius:30px 0px 0px 30px;
 	width:13px;
 	height:13px;
 	position:absolute;
-	background:#000;
+	background:#43f036;
 	border-radius:50%;
 	cursor: pointer;
 	box-sizing:content-box;
@@ -127,14 +127,14 @@ border-radius:30px 0px 0px 30px;
 }
 .ares .tp-bullet-title {
   position:absolute;
-  color:#78d918;
+  color:#222222;
   font-size:12px;
   padding:0px 10px;
   font-weight:600;
   right:27px;
   top:-4px;
-  background:#000;
-  background:rgba(0,0,0,0.75);
+  background:#222222;
+  background:rgba(2,2,2,0.75);
   visibility:hidden;
   transform:translateX(-20px);
   -webkit-transform:translateX(-20px);
@@ -163,7 +163,7 @@ border-radius:30px 0px 0px 30px;
 }
 
 .ares .tp-bullet.selected:hover .tp-bullet-title {
-    background:#fff;
+    background:#096603;
         }
 .ares .tp-bullet.selected:hover .tp-bullet-title:after {
   border-color:transparent transparent transparent ##43f036;
@@ -194,7 +194,7 @@ border-radius:30px 0px 0px 30px;
 }
 .ares .tp-tab-content 
 {
-    background:rgba(0,0,0,0); 
+    background:rgba(238, 238, 238, 0); 
     position:relative;
     padding:15px 15px 15px 85px;
  left:0px;
@@ -509,8 +509,8 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .erinyen.tparrows {
   cursor:pointer;
-  background:#000;
-  background:rgba(0,0,0,0.5);
+  background:#43f036;
+  background: rgb(67, 240, 54);
   min-width:70px;
   min-height:70px;
   position:absolute;
@@ -654,7 +654,7 @@ website:    http://www.themepunch.com
 	width:13px;
 	height:13px;
 	position:absolute;
-	background:#111;	
+	background:#222;	
 	border-radius:50%;
 	cursor: pointer;
 	box-sizing:content-box;
@@ -662,14 +662,14 @@ website:    http://www.themepunch.com
 .erinyen .tp-bullet:hover,
 .erinyen .tp-bullet.selected {
 	background: #000; /* old browsers */
-background: -moz-linear-gradient(top,  #e5e5e5 0%, #999999 100%); /* ff3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e5e5e5), color-stop(100%,#999999)); /* chrome,safari4+ */
-background: -webkit-linear-gradient(top,  #e5e5e5 0%,#999999 100%); /* chrome10+,safari5.1+ */
-background: -o-linear-gradient(top,  #e5e5e5 0%,#999999 100%); /* opera 11.10+ */
-background: -ms-linear-gradient(top,  #e5e5e5 0%,#999999 100%); /* ie10+ */
-background: linear-gradient(to bottom,  #e5e5e5 0%,#999999 100%); /* w3c */
-filter: progid:dximagetransform.microsoft.gradient( startcolorstr="#e5e5e5", endcolorstr="#999999",gradienttype=0 ); /* ie6-9 */
-  border:1px solid ##43f036;
+background: -moz-linear-gradient(top,  #222222 0%, #096603 100%); /* ff3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#222222), color-stop(100%,#096603)); /* chrome,safari4+ */
+background: -webkit-linear-gradient(top,  #222222 0%,#096603 100%); /* chrome10+,safari5.1+ */
+background: -o-linear-gradient(top,  #222222 0%,#096603 100%); /* opera 11.10+ */
+background: -ms-linear-gradient(top,  #222222 0%,#096603 100%); /* ie10+ */
+background: linear-gradient(to bottom,  #222222 0%,#096603 100%); /* w3c */
+filter: progid:dximagetransform.microsoft.gradient( startcolorstr="#222222", endcolorstr="#096603",gradienttype=0 ); /* ie6-9 */
+  border:1px solid #00000;
   width:12px;height:12px;
 }
 .erinyen .tp-bullet-image {
@@ -768,7 +768,7 @@ opacity:1
     font-weight:400;
     color:##43f036;
     line-height:25px;
-	font-family:"Roboto Slab";
+	font-family:"Exo 2";
 }
       
 
@@ -1798,17 +1798,17 @@ website:    http://www.themepunch.com
 	width:12px;
 	height:12px;
 	position:absolute;
-	background: #999999; /* old browsers */
-    background: -moz-linear-gradient(top,  #999999 0%, ##989F98 100%); /* ff3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#999999), 
+	background: #096603; /* old browsers */
+    background: -moz-linear-gradient(top,  #096603 0%, ##989F98 100%); /* ff3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#096603), 
     color-stop(100%,##989F98)); /* chrome,safari4+ */
-    background: -webkit-linear-gradient(top,  #999999 0%,##989F98 100%); /* chrome10+,safari5.1+ */
-    background: -o-linear-gradient(top,  #999999 0%,##989F98 100%); /* opera 11.10+ */
-    background: -ms-linear-gradient(top,  #999999 0%,##989F98 100%); /* ie10+ */
-    background: linear-gradient(to bottom,  #999999 0%,##989F98 100%); /* w3c */
+    background: -webkit-linear-gradient(top,  #096603 0%,##989F98 100%); /* chrome10+,safari5.1+ */
+    background: -o-linear-gradient(top,  #096603 0%,##989F98 100%); /* opera 11.10+ */
+    background: -ms-linear-gradient(top,  #096603 0%,##989F98 100%); /* ie10+ */
+    background: linear-gradient(to bottom,  #096603 0%,##989F98 100%); /* w3c */
     filter: progid:dximagetransform.microsoft.gradient( 
-    startcolorstr="#999999", endcolorstr="##989F98",gradienttype=0 ); /* ie6-9 */
-	border:3px solid #e5e5e5;
+    startcolorstr="#096603", endcolorstr="##989F98",gradienttype=0 ); /* ie6-9 */
+	border:3px solid #222222;
 	border-radius:50%;
 	cursor: pointer;
 	box-sizing:content-box;
@@ -1865,7 +1865,7 @@ website:    http://www.themepunch.com
   padding:10px;
   box-sizing:border-box;
   font-family: "Roboto", sans-serif;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #222222;
  }
 .hesperiden .tp-tab-image 
 { 
@@ -2190,7 +2190,7 @@ website:    http://www.themepunch.com
 	height:12px;
 	position:absolute;
 	background:#aaa;
-	border:1px solid #e5e5e5;	
+	border:1px solid #222222;	
 	cursor: pointer;
 	box-sizing:content-box;
 }

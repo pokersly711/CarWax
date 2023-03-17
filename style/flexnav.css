@@ -33,8 +33,8 @@
     padding: .96em;
     z-index: 2;
     overflow: hidden;
-    color: #222222;
-    background: #a6a6a2;
+    color: #43f036;
+    background: #00000;
     border-bottom: 1px solid rgba(0, 0, 0, 0.15); }
   .flexnav li ul {
     width: 100%; }
@@ -46,11 +46,11 @@
     overflow: visible; }
   .flexnav li ul li a {
     display: block;
-    background: #b2b2af; }
+    background: #000; }
   .flexnav ul li ul li a {
-    background: #bfbfbc; }
+    background: #000; }
   .flexnav ul li ul li ul li a {
-    background: #cbcbc9; }
+    background: #000; }
   .flexnav .touch-button {
     position: absolute;
     z-index: 999;
@@ -59,7 +59,7 @@
     width: 50px;
     height: 50px;
     display: inline-block;
-    background: #acaca1;
+    background: #000;
     background: rgba(0, 0, 0, 0.075);
     text-align: center; }
     .flexnav .touch-button:hover {
@@ -68,14 +68,14 @@
       position: relative;
       top: 1.4em;
       font-size: 12px;
-      color: #666; }
+      color: #43f036; }
 
 .menu-button {
   position: relative;
   display: block;
   padding: 1em;
-  background: #a6a6a2;
-  color: #222222;
+  background: #00000;
+  color: #;
   cursor: pointer;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2); }
   .menu-button.one-page {
@@ -97,7 +97,7 @@
       font-size: 16px;
       position: relative;
       top: 1em;
-      color: #666; }
+      color: #43f036; }
 
 @media all and (min-width: 800px) {
   body.one-page {
@@ -116,7 +116,7 @@
       list-style: none;
       float: left;
       display: block;
-      background-color: #a6a6a2;
+      background-color: #000;
       overflow: visible;
       width: 20%; }
     .flexnav li a {
@@ -160,7 +160,7 @@
     list-style: none;
     float: left;
     display: block;
-    background-color: #a6a6a2;
+    background-color: #444;
     width: 20%;
     min-height: 50px;
     overflow: visible; }
@@ -172,11 +172,11 @@
       width: 100%;
       float: none; }
   .oldie .flexnav li a {
-    border-left: 1px solid #acaca1;
+    border-left: 1px solid #000;
     border-bottom: none;
     overflow: visible; }
   .oldie .flexnav li > ul {
-    background: #acaca1;
+    background: #000;
     position: absolute;
     top: auto;
     left: 0;
