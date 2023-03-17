@@ -22,12 +22,12 @@
 								<div class="template-layout-column-center-left">
 									<h6>Services</h6>
 									<ul class="template-list-reset">
-										<li><a href="<?php Template::getPageURL('service-style-1'); ?>">Exterior Hand Wash</a></li>
-										<li><a href="<?php Template::getPageURL('service-style-1'); ?>">Tower Hand Dry</a></li>
-										<li><a href="<?php Template::getPageURL('service-style-1'); ?>">Tire Dressing</a></li>
-										<li><a href="<?php Template::getPageURL('service-style-1'); ?>">Wheel Shine</a></li>
-										<li><a href="<?php Template::getPageURL('service-style-1'); ?>">Trim Protection</a></li>
-										<li><a href="<?php Template::getPageURL('service-style-1'); ?>">All Exterior</a></li>
+										<li><a href="<?php Template::getPageURL('betaSpecial'); ?>"></a>Special</li>
+										<li><a href="<?php Template::getPageURL('multipackageBooking'); ?>"></a>Packages</li>
+										<li><a href="<?php Template::getPageURL('service-style-1'); ?>"></a></li>
+										<li><a href="<?php Template::getPageURL('service-style-1'); ?>"></a></li>
+										<li><a href="<?php Template::getPageURL('service-style-1'); ?>"></a></li>
+										<li><a href="<?php Template::getPageURL('service-style-1'); ?>"></a></li>
 									</ul>									
 								</div>
 								
