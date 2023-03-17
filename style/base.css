@@ -319,11 +319,11 @@ body,*,input,textarea
 .template-component-team-list>ul>li>.template-component-team-list-position
 {
 <<<<<<< Updated upstream
-	font-family:"Poppins", sans-serif;
+	font-family:"Expo", sans-serif;
 	color: #43F036;
 =======
 	font-family:"Exo", sans-serif;
-	color: #c0ff00;
+	color: #43F036;
 >>>>>>> Stashed changes
 }
 
@@ -377,18 +377,18 @@ body,*,input,textarea
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
 <<<<<<< Updated upstream
-		color:#43F036;
+		color:#ffffff;
 =======
-		color:#c0ff00;
+		color:#43F036;
 >>>>>>> Stashed changes
 	}
 	
 	::-moz-selection
 	{
 <<<<<<< Updated upstream
-		color:#43F036;
+		color:#ffffff;
 =======
-		color:#c0ff00;
+		color:#43F036;
 >>>>>>> Stashed changes
 	}
 	
@@ -433,16 +433,16 @@ body,*,input,textarea
 	.fancybox-title.fancybox-title-inside-wrap
 	{
 <<<<<<< Updated upstream
-		color: #43F036;
+		color: #ffffff;
 =======
-		color: #c0ff00;
+		color: #43F036;
 >>>>>>> Stashed changes
 	}
 
 	.template-header .template-header-top .template-header-top-icon-list a,
-	.template-header .template-header-top .template-component-menu-default>.sf-menu>li>a
+	.template-header .template-header-top .template-component-menu-default .sf-menu li a
 	{
-		color:rgba(192,255,0,0.85);
+		color:rgb(50, 205, 50);
 	}
 	
 	body,
@@ -523,18 +523,18 @@ body,*,input,textarea
 	.template-component-list li>span
 	{
 <<<<<<< Updated upstream
-		color:#B5BBB5;
+		color:#000000;
 =======
-		color:#808080;
+		color:#00000;
 >>>>>>> Stashed changes
 	}
 	
 	.template-page-404 .template-content h1
 	{
 <<<<<<< Updated upstream
-		color:#B5BBB5;
+		color:#43F036;
 =======
-		color:#c0ff00;
+		color: #43f036;;
 >>>>>>> Stashed changes
 	}
 		
@@ -546,7 +546,7 @@ body,*,input,textarea
 	.template-component-menu-default>.sf-menu>li ul
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color:#000000;
 =======
 		background-color:#000000;
 >>>>>>> Stashed changes
@@ -561,7 +561,7 @@ body,*,input,textarea
 	.flexnav .touch-button
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color:#000000;
 =======
 		background-color:#5b5b5b;
 >>>>>>> Stashed changes
@@ -571,7 +571,7 @@ body,*,input,textarea
 	.flexnav li.item-with-ul ul a
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color: #49604887;
 =======
 		background-color:#c0ff00;
 >>>>>>> Stashed changes
@@ -582,7 +582,7 @@ body,*,input,textarea
 	.template-component-divider
 	{
 <<<<<<< Updated upstream
-		background-color:#2E362D;
+		background-color: rgb(0, 0, 0);
 =======
 		background-color:#000000;
 >>>>>>> Stashed changes
@@ -630,7 +630,7 @@ body,*,input,textarea
 	.template-component-blockquote
 	{
 <<<<<<< Updated upstream
-		background-color:#F9F9F9;
+		background-color:#2E362D;
 =======
 		background-color:#5b5b5b;
 >>>>>>> Stashed changes
@@ -696,13 +696,13 @@ body,*,input,textarea
 	.tparrows.preview1::after,
 	.tp-bullets.preview1 .tp-bullet
 	{
-		background:rgba(192,255,0,0.15);
+		background:rgb(50, 205, 50);
 	}
 	
 	.fancybox-skin
 	{
 <<<<<<< Updated upstream
-		background:#2E362D;
+		background:#00000;
 =======
 		background:#374900;
 >>>>>>> Stashed changes
