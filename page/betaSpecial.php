@@ -4,7 +4,7 @@
 				<div class="template-header template-header-background template-header-background-3">
 <?php
 		Template::includeTemplateHeaderTop();
-		Template::includeTemplateHeaderBottom('Our Services',array(array(Template::getPageURL('home',false),'Home'),array('#','Our Services')));
+		Template::includeTemplateHeaderBottom('Beta Special',array(array(Template::getPageURL('home',false),'Home'),array('#','Beta Special')));
 ?>
 				
 				</div>
@@ -18,15 +18,20 @@
 						
 						<!-- Header + subheader -->
 						<div class="template-component-header-subheader">
-							<h2>Help us work out the kinks. Your convenience is our main focus.</h2>
+							<h2>Huntsville, we are carvenience ondemand carwash.</h2>
 							<div></div>
-							<span>Your feedback is needed, and for your time we are gonna offer a special price.</span>
+							<span>We chose you as our first beta test area. Why? Because, Huntsville is the silicone valley of the south. 
+							<br/><br/>We need individuals who know what Beta versions are and why they are important when testing. We have a special 
+							<br/><br/>deal for those who want to try our service, and all we ask is for your feedback.
+							</span>
 						</div>		
 						
 						<!-- Text -->
 						<div class="template-align-center"> 
 							<p>
-								Any size personal vehicle for $40.00. All we ask is you give us some feedback on your experience with us. This price will change when we are done with testing every aspect of the service from User Experience on our app to The service we provide.
+								Any size personal vehicle for $40.00. All we ask is you give us some feedback on your experience with us. 
+								<br></br>This price will change when we are done with testing every aspect of the service from User 
+								<br></br>Experience on our app to The service we provide.
 							</p>
 						</div>
 						
