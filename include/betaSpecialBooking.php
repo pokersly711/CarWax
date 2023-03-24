@@ -9,8 +9,8 @@
 					<span>/</span>
 					<span>4</span>	
 				</span>
-				<h3>Beta Release Special</h3>
-				<h5>In order to make sure that we provide a clean and simple user experience, we need the your help. In exchange, we are offering this special price for the early stages of development. All we ask is for you to give us feedback so we can make the necessary adjustments.</h5>
+				<h3>Pre-release Special</h3>
+				<h5></h5>
 			</div>
 			
 			<!-- Content -->
