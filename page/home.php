@@ -21,7 +21,7 @@
 						<div class="template-component-header-subheader">
 							<h2>Carvenience</h2>
 							<div></div>
-							<span>On Demand &amp; Carwash</span>
+							<span>On Demand Carwash</span>
 						</div>	
 						
 						<!-- Layout 33x66% -->
@@ -37,13 +37,13 @@
 								
 								<!-- Text -->
 								<p class="template-padding-reset">
-									We are one of the first on-demand 
-									automotive service providers in the 
-									U.S. We use the best products in the industry from Chemical Guys Inc. By trained gig workers, who love your automobiles shine just as much as you do.
-									Our company was founded back in 2021 by James Russell, CEO, of JHR Enterprises LLC. Who takes special interest in the environment. 
-									We utilize todays technology and tomorrows innovation to bring our services to you. Our goal is to provide our customers with the friendliest, most convenient 
-									Automotive service experience possible. 
-									Our products are all biodegradable and eco-friendly.
+                                    Carvenience OnDemand Carwash is a startup company that provides on-demand car wash services to busy individuals who value a clean and well-maintained car. The concept behind Carvenience OnDemand Carwash is to offer a convenient solution for people who want to keep their vehicles clean, but struggle to find the time in their busy schedules to do so.
+                                    <br>
+                                    With Carvenience OnDemand Carwash, customers can schedule a car wash service at a time and location that is convenient for them. Whether it's at home, at work, or at another location, our team of experienced Shine Specialists will come to the customer's location and provide an exceptional car wash experience.
+                                    <br>
+                                    We understand that our customers' time is valuable, which is why we offer flexible scheduling options and a variety of packages to suit different needs. Our services are available seven days a week, so customers can choose a time that fits their schedule.
+                                    <br>
+                                    Our mission is to provide an exceptional car wash experience wherever it is convenient for our clients. We believe that a clean and well-maintained car is important in helping people get through their busy schedules. At Carvenience OnDemand Carwash, we value reliability, professionalism, and customer satisfaction.
 								</p>
 																
 								<!-- Feature list -->
@@ -59,10 +59,10 @@
 											<h5>The Best Car Wash</h5>
 											<ul class="template-component-list">
 												<li><span class="template-icon-meta-check"></span>We offer multiple services at a great value</li>
-												<li><span class="template-icon-meta-check"></span>booking online with future mobile app is under development.</li>
-												<li><span class="template-icon-meta-check"></span>Biodegradable and eco-friendly products</li>
-												<li><span class="template-icon-meta-check"></span>Utilizing payments through electronically with security at the front of our mind.</li>
-												<li><span class="template-icon-meta-check"></span>Trained and skilled car wash crew members</li>
+												<li><span class="template-icon-meta-check"></span>We utilize the best products in the industry made by, Chemical Guys.</li>
+												<li><span class="template-icon-meta-check"></span>Well trained Shine Specialist, with close attention to detail.</li>
+												<li><span class="template-icon-meta-check"></span>We strive on highly secure technology</li>
+												<li><span class="template-icon-meta-check"></span>We want to hear from you.</li>
 											</ul>
 										</li>
 										
@@ -77,11 +77,10 @@
 												<li><span class="template-icon-meta-check"></span>Book an appointment online under 3 minutes</li>
 												<li><span class="template-icon-meta-check"></span>Our toll free number will be answered</li>
 												<li><span class="template-icon-meta-check"></span>You can pay online for your appointment</li>
-											</ul>											
-										</li>
-										
-									</ul>
-									
+											</ul>
+
+                                        </li>
+                                    </ul>
 								</div>
 								
 							</div>
@@ -111,9 +110,9 @@
 
 							<!-- Header + subheader -->
 							<div class="template-component-header-subheader">
-								<h2>On Demand Carwash</h2>
+								<h2>Carvenience Ondemand</h2>
 								<div></div>
-								<span>We know your time is valuable</span>
+								<span>We provide the best service at your convenience.</span>
 							</div>	
 
 							<!-- Space -->							
@@ -217,29 +216,29 @@
 										<!-- Left column -->
 										<li class="template-layout-column-left">
 											<span class="template-icon-feature-location-map"></span>
-											<h5>Convenience</h5>
-											<p>We are dedicated to providing quality service, customer satisfaction at a great value at you convenient location and time.</p>
+											<h5>A Ondemand Service</h5>
+											<p>A new concept for those with busy schedules. We bring our top grade service to you, whether at your home or work.</p>
 										</li>
 										
 										<!-- Right column -->
 										<li class="template-layout-column-right">
 											<span class="template-icon-feature-eco-nature"></span>
-											<h5>Organic products</h5>
-											<p>Our products are eco-friendly and interior products are all organic. We use less than a gallon of water with absolutely zero-waste.</p>											
+											<h5>Top Service</h5>
+											<p>We gaurantee the same top service to everyone.</p>
 										</li>
 										
 										<!-- Left column -->
 										<li class="template-layout-column-left">
 											<span class="template-icon-feature-team"></span>
-											<h5>Experienced Team</h5>
-											<p>Our crew members are all trained and skilled and fully equiped with equipment and supplies needed that we can deliver the best results.</p>											
+											<h5>Our Shine Specialists</h5>
+											<p>All services provided by highly trained individuals with a phenomenal drive and attention to detail.</p>
 										</li>
 										
 										<!-- Right column -->
 										<li class="template-layout-column-right">
 											<span class="template-icon-feature-spray-bottle"></span>
-											<h5>Great Value</h5>
-											<p>We offer multiple services at a great value to meet your needs. We offer a premium service while saving your time and money.</p>											
+											<h5>Start-up Packages</h5>
+											<p>During our start-up phase, we are offering our services at discounted prices for a limited time.</p>
 										</li>
 										
 									</ul>
