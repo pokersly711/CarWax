@@ -21,7 +21,9 @@
 						<div class="template-component-header-subheader">
 							<h2>Carvenience</h2>
 							<div></div>
+
                             <span>Shine on your Time!</span>
+
 						</div>	
 						
 						<!-- Layout 33x66% -->

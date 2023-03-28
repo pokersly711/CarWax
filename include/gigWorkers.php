@@ -1,16 +1,16 @@
 		
 		<!-- Header + subheader -->
 		<div class="template-component-header-subheader template-align-left">
-			<h2>We are looking for individuals with a close attention to detail, 
-				<br></br>and who are self Motivated individuals.
+			<h2>We are looking for driven individuals<br></br> with a close attention to detail.
 			</h2>
 			<div></div>
-			<span>We offer training and start-up kits.</span>
+			<span>Great oppurunities for both individuals and pre-existing companies who wan to<br></br>
+			want to EXPAND THEIR BUSINESS.</span>
 		</div>	
 
 		<!-- Text -->
 		<p class="template-padding-reset">
-			Let me Explain
+			We utilize todays technology, providing the most secure connection throughout our app. 
 		</p>
 
 		<!-- Image -->
@@ -42,22 +42,23 @@
 			<div class="template-layout-column-right">
 				
 				<!-- List -->
-				<ul class="template-component-list">
+				<!--<ul class="template-component-list">
 					<li><span class="template-icon-meta-check"></span>We are very open and easy to reach company</li>
 					<li><span class="template-icon-meta-check"></span>Our email is checked hourly during the day</li>
 					<li><span class="template-icon-meta-check"></span>Book an appointment online under 3 minutes</li>
 					<li><span class="template-icon-meta-check"></span>Our tool free number will be answered</li>
 					<li><span class="template-icon-meta-check"></span>You can pay online for your appointment</li>
 				</ul>
-				
+				-->
 			</div>
 
 		</div>
 
 		<!-- Header -->
 		<div class="template-component-header-subheader template-align-left">
-			<h4></h4>
-			<div></div>
+			<h4>We are a Gig Workers Dream!</h4>
+			<div>We are accepting partnerships in locations all over the U.S. </br>
+		    If you are a highly motivated individual that </div>
 		</div>	
 
 		<!-- Text -->
