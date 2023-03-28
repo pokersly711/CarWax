@@ -42,22 +42,23 @@
 			<div class="template-layout-column-right">
 				
 				<!-- List -->
-				<ul class="template-component-list">
+				<!--<ul class="template-component-list">
 					<li><span class="template-icon-meta-check"></span>We are very open and easy to reach company</li>
 					<li><span class="template-icon-meta-check"></span>Our email is checked hourly during the day</li>
 					<li><span class="template-icon-meta-check"></span>Book an appointment online under 3 minutes</li>
 					<li><span class="template-icon-meta-check"></span>Our tool free number will be answered</li>
 					<li><span class="template-icon-meta-check"></span>You can pay online for your appointment</li>
 				</ul>
-				
+				-->
 			</div>
 
 		</div>
 
 		<!-- Header -->
 		<div class="template-component-header-subheader template-align-left">
-			<h4></h4>
-			<div></div>
+			<h4>We are a Gig Workers Dream!</h4>
+			<div>We are accepting partnerships in locations all over the U.S. </br>
+		    If you are a highly motivated individual that </div>
 		</div>	
 
 		<!-- Text -->

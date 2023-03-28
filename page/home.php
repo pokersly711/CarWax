@@ -21,7 +21,7 @@
 						<div class="template-component-header-subheader">
 							<h2>Carvenience</h2>
 							<div></div>
-							<span>On Demand &amp; Carwash</span>
+							<span>Shine on your&amp;Time!!!</span>
 						</div>	
 						
 						<!-- Layout 33x66% -->
