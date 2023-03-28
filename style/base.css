@@ -132,6 +132,20 @@
 /******************************************************************************/
 /* Reset styles																  */
 /******************************************************************************/
+/* Color Theme Swatches in Hex */
+.ionicApp-1-hex { color: #18610A; }
+.ionicApp-2-hex { color: #9FE08D; }
+.ionicApp-3-hex { color: #38E016; }
+.ionicApp-4-hex { color: #686762; }
+.ionicApp-5-hex { color: #B1B0A8; }
+
+/* Color Theme Swatches in RGBA */
+.ionicApp-1-rgba { color: rgba(24, 97, 10, 1); }
+.ionicApp-2-rgba { color: rgba(159, 224, 141, 1); }
+.ionicApp-3-rgba { color: rgba(56, 224, 22, 1); }
+.ionicApp-4-rgba { color: rgba(104, 103, 98, 1); }
+.ionicApp-5-rgba { color: rgba(177, 176, 168, 1); }
+
 
 html,body,div,span,applet,object,iframe,
 h1,h2,h3,h4,h5,h6,p,blockquote,pre,
@@ -212,7 +226,7 @@ html,body,input,textarea
 {
 	font-size:15px;
 	font-weight:400;
-    font-family: 'Exo 2';
+    font-family: 'Exo 2', 'sans-serif';
 	box-sizing:border-box;
 }
 
@@ -306,7 +320,8 @@ textarea
 
 body,*,input,textarea
 {
-	font-family:"Racing Sans One";
+	font-family:"Exo 2", "sans-serif";
+	color: #000;
 }
 
 .template-component-blockquote,
@@ -317,13 +332,10 @@ body,*,input,textarea
 .template-component-testimonial-list ul>li>span,
 .template-component-team-list>ul>li>.template-component-team-list-position
 {
-<<<<<<< Updated upstream
-	font-family:"Exo", sans-serif;
-	color: #43F036;
-=======
-	font-family:"Exo", sans-serif;
-	color: #43F036;
->>>>>>> Stashed changes
+
+	font-family:"Exo2", sans-serif;
+	color: #000;
+
 }
 
 /******************************************************************************/
@@ -375,24 +387,16 @@ body,*,input,textarea
 	.tparrows.preview1::after,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-		color:#43F036;
-=======
-		color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
-=======
-		color:#43F036;
->>>>>>> Stashed changes
+
+		color: #86f27e;
+
 	}
 	
 	::-moz-selection
 	{
-<<<<<<< Updated upstream
-		color:#000;
-=======
-		color:#43F036;
->>>>>>> Stashed changes
+
+		color:#86f27e;
+
 	}
 	
 	.template-header .template-header-top.template-header-top-sticky .template-header-top-icon-list a,
@@ -435,21 +439,15 @@ body,*,input,textarea
 	.flexnav .touch-button.template-icon-meta-arrow-large-tb:before,
 	.fancybox-title.fancybox-title-inside-wrap
 	{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-		color: #43F036;
-=======
-		color: #000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
-=======
-		color: #43F036;
->>>>>>> Stashed changes
+
+		color: #43f036;
+
 	}
 
 	.template-header .template-header-top .template-header-top-icon-list a,
 	.template-header .template-header-top .template-component-menu-default .sf-menu li a
 	{
-		color:rgb(50, 205, 50);
+		color:rgb(67, 240, 54);
 	}
 	
 	body,
@@ -471,11 +469,9 @@ body,*,input,textarea
 	.dtpicker-overlay .dtpicker-compValue:hover,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-<<<<<<< Updated upstream
-		color:............................. #43F036;
-=======
-		color:............................. #808080;
->>>>>>> Stashed changes
+
+		color: #43f036;
+
 	}
 	
 	.template-header .template-header-top.template-header-top-sticky .template-header-top-icon-list a:hover,
@@ -502,15 +498,9 @@ body,*,input,textarea
 	.flexnav .touch-button.template-icon-meta-arrow-large-tb:hover:before,
 	[class^="template-icon-feature-"],[class*=" template-icon-feature-"] 
 	{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-		color: #5b605b;
-=======
-		color: #000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
-=======
-		color: #808080
->>>>>>> Stashed changes
+
+		color: #33bd2a;
+
 	}
 	
 	h2,h3,h4,h5,h6,
@@ -523,30 +513,24 @@ body,*,input,textarea
 	.template-component-booking .template-component-booking-service-list>li>.template-component-booking-service-name,
 	.template-component-recent-post>li>a>span
 	{
-<<<<<<< Updated upstream
-		color:#43F036;
-=======
-		color:#ffff00;
->>>>>>> Stashed changes
+
+		color:#43f036;
+
 	}
 	
 	a,
 	.template-component-list li>span
 	{
-<<<<<<< Updated upstream
-		color:#000000;
-=======
-		color:#00000;
->>>>>>> Stashed changes
+
+		color:#b1b0a8;
+
 	}
 	
 	.template-page-404 .template-content h1
 	{
-<<<<<<< Updated upstream
-		color:#000000;
-=======
-		color: #43f036;;
->>>>>>> Stashed changes
+
+		color:#b1b0a8;
+
 	}
 		
 	/**************************************************************************/
@@ -556,11 +540,9 @@ body,*,input,textarea
 	.template-footer,
 	.template-component-menu-default>.sf-menu>li ul
 	{
-<<<<<<< Updated upstream
-		background-color:#000000;
-=======
-		background-color:#000000;
->>>>>>> Stashed changes
+
+		background-color:#222222;
+
 	}
 		
 	.template-header .template-header-top.template-header-top-sticky,
@@ -571,22 +553,16 @@ body,*,input,textarea
 	.flexnav li ul li a,
 	.flexnav .touch-button
 	{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-		background-color:#5b605b;
-=======
-		background-color:#43f036;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
-=======
-		background-color:#5b5b5b;
->>>>>>> Stashed changes
+
+		background-color:#33bd2a;
+
 	}
 	
 	.template-component-google-map .template-component-google-map-button,
 	.flexnav li.item-with-ul ul a
 	{
 
-		background-color: #000;
+		background-color: #b1b0a8;
 
 	}
 	
@@ -595,7 +571,7 @@ body,*,input,textarea
 	.template-component-divider
 	{
 
-		background-color: rgb(0, 0, 0);
+		background-color: rgb(104, 103, 98);
 	}
 
 	
@@ -623,14 +599,14 @@ body,*,input,textarea
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
 
-		background-color:#5b605b;
+		background-color:#222222;
 
 	}
 	
 	::-moz-selection
 	{
 
-		background-color:#5b605b;
+		background-color:#222222;
 
 	}
 	
@@ -638,32 +614,32 @@ body,*,input,textarea
 	.template-component-blockquote
 	{
 
-		background-color:#5b605b;
+		background-color:#222222;
 
 	}
 	
 	.template-background-color-2,
 	.dtpicker-overlay .dtpicker-compValue:focus
 	{
-
+		background-color: #222222;
 	}
 	
 	input
 	{
 		background-color:transparent;
 	}
-	
+
 	body>.template-component-search-form
 	{
 
-		background-color:#5b605b;
+		background-color:#686762;
 
 	}
 	
 	.template-qtip.template-qtip-success.qtip
 	{
 
-		background-color:#000000;
+		background-color:#b1b0a8;
 
 	}
 	
@@ -675,30 +651,30 @@ body,*,input,textarea
 	.template-component-go-to-top
 	{
 
-		background-color:rgba(46,54,45,0.8);
+		background-color:rgba(56,234,22,0.8);
 
 	}
 	
 	.template-component-image .template-component-image-hover
 	{	
-		background:rgba(46,54,45,0.8);
+		background:rgba(159,234,141,0.8);
 	}
 	
 	.template-component-image .template-component-image-hover>span>span>span.template-component-image-hover-divider
 	{
-		background:rgba(46,54,45,0.8);
+		background:rgba(159,234,141,0.8);
 	}
 	
 	.tparrows.preview1::after,
 	.tp-bullets.preview1 .tp-bullet
 	{
-		background:rgb(50, 205, 50);
+		background:rgb(104, 103, 98);
 	}
 	
 	.fancybox-skin
 	{
 
-		background:#5b605b;
+		background:#061201;
 
 	}
 	
@@ -707,14 +683,14 @@ body,*,input,textarea
 	.tp-bullets.preview1 .tp-bullet.selected 
 	{
 
-		background:#5b605b !important;
+		background:#2ec100 !important;
 
 	}
 
 	.template-component-button,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-		background-color:#43F036;
+		background-color:#B1B0A8;
 	}
 	
 	/**************************************************************************/
@@ -773,7 +749,7 @@ body,*,input,textarea
 	.flexnav .touch-button
 	{
 
-		border-color:#43F036;
+		border-color:#2ec100;
 
 	}
 
@@ -797,7 +773,7 @@ body,*,input,textarea
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
 
-		border-color:#43F036;
+		border-color:#2ec100;
 
 	}
 	
