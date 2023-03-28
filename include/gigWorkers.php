@@ -1,16 +1,16 @@
 		
 		<!-- Header + subheader -->
 		<div class="template-component-header-subheader template-align-left">
-			<h2>We are looking for individuals with a close attention to detail, 
-				<br></br>and who are self Motivated individuals.
+			<h2>We are looking for driven individuals<br></br> with a close attention to detail.
 			</h2>
 			<div></div>
-			<span>We offer training and start-up kits.</span>
+			<span>Great oppurunities for both individuals and pre-existing companies who wan to<br></br>
+			want to EXPAND THEIR BUSINESS.</span>
 		</div>	
 
 		<!-- Text -->
 		<p class="template-padding-reset">
-			Let me Explain
+			We utilize todays technology, providing the most secure connection throughout our app. 
 		</p>
 
 		<!-- Image -->
