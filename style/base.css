@@ -132,6 +132,20 @@
 /******************************************************************************/
 /* Reset styles																  */
 /******************************************************************************/
+/* Color Theme Swatches in Hex */
+.ionicApp-1-hex { color: #18610A; }
+.ionicApp-2-hex { color: #9FE08D; }
+.ionicApp-3-hex { color: #38E016; }
+.ionicApp-4-hex { color: #686762; }
+.ionicApp-5-hex { color: #B1B0A8; }
+
+/* Color Theme Swatches in RGBA */
+.ionicApp-1-rgba { color: rgba(24, 97, 10, 1); }
+.ionicApp-2-rgba { color: rgba(159, 224, 141, 1); }
+.ionicApp-3-rgba { color: rgba(56, 224, 22, 1); }
+.ionicApp-4-rgba { color: rgba(104, 103, 98, 1); }
+.ionicApp-5-rgba { color: rgba(177, 176, 168, 1); }
+
 
 html,body,div,span,applet,object,iframe,
 h1,h2,h3,h4,h5,h6,p,blockquote,pre,
@@ -155,7 +169,7 @@ time,mark,audio,video
 }
 
 article,aside,details,figcaption,figure,
-footer,header,hgroup,menua,nav,section 
+footer,header,hgroup,menu,nav,section
 {
 	display:block;
 }
@@ -173,7 +187,6 @@ blockquote,q
 blockquote:before,blockquote:after,
 q:before,q:after 
 {
-	content:'';
 	content:none;
 }
 
@@ -213,7 +226,7 @@ html,body,input,textarea
 {
 	font-size:15px;
 	font-weight:400;
-    font-family: 'Exo 2';
+    font-family: 'Exo 2', 'sans-serif';
 	box-sizing:border-box;
 }
 
@@ -226,7 +239,7 @@ img
 
 p
 {
-	padding:10px 0px 10px 0px;
+	padding:10px 0 10px 0;
 }
 
 a
@@ -307,7 +320,8 @@ textarea
 
 body,*,input,textarea
 {
-	font-family:"Racing Sans One";
+	font-family:"Exo 2", "sans-serif";
+	color: #0d0d0d;
 }
 
 .template-component-blockquote,
@@ -318,13 +332,10 @@ body,*,input,textarea
 .template-component-testimonial-list ul>li>span,
 .template-component-team-list>ul>li>.template-component-team-list-position
 {
-<<<<<<< Updated upstream
-	font-family:"Exo", sans-serif;
-	color: #43F036;
-=======
-	font-family:"Exo", sans-serif;
-	color: #43F036;
->>>>>>> Stashed changes
+
+	font-family:"Exo2", sans-serif;
+	color: #01c20e;
+
 }
 
 /******************************************************************************/
@@ -376,24 +387,16 @@ body,*,input,textarea
 	.tparrows.preview1::after,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-		color:#43F036;
-=======
-		color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
-=======
-		color:#43F036;
->>>>>>> Stashed changes
+
+		color: #86f27e;
+
 	}
 	
 	::-moz-selection
 	{
-<<<<<<< Updated upstream
-		color:#000;
-=======
-		color:#43F036;
->>>>>>> Stashed changes
+
+		color:#86f27e;
+
 	}
 	
 	.template-header .template-header-top.template-header-top-sticky .template-header-top-icon-list a,
@@ -436,21 +439,15 @@ body,*,input,textarea
 	.flexnav .touch-button.template-icon-meta-arrow-large-tb:before,
 	.fancybox-title.fancybox-title-inside-wrap
 	{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-		color: #43F036;
-=======
-		color: #000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
-=======
-		color: #43F036;
->>>>>>> Stashed changes
+
+		color: #43f036;
+
 	}
 
 	.template-header .template-header-top .template-header-top-icon-list a,
 	.template-header .template-header-top .template-component-menu-default .sf-menu li a
 	{
-		color:rgb(50, 205, 50);
+		color:rgb(67, 240, 54);
 	}
 	
 	body,
@@ -472,11 +469,9 @@ body,*,input,textarea
 	.dtpicker-overlay .dtpicker-compValue:hover,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-<<<<<<< Updated upstream
-		color:............................. #43F036;
-=======
-		color:............................. #808080;
->>>>>>> Stashed changes
+
+		color: #43f036;
+
 	}
 	
 	.template-header .template-header-top.template-header-top-sticky .template-header-top-icon-list a:hover,
@@ -503,15 +498,9 @@ body,*,input,textarea
 	.flexnav .touch-button.template-icon-meta-arrow-large-tb:hover:before,
 	[class^="template-icon-feature-"],[class*=" template-icon-feature-"] 
 	{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-		color: #5b605b;
-=======
-		color: #000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
-=======
-		color: #808080
->>>>>>> Stashed changes
+
+		color: #33bd2a;
+
 	}
 	
 	h2,h3,h4,h5,h6,
@@ -524,30 +513,24 @@ body,*,input,textarea
 	.template-component-booking .template-component-booking-service-list>li>.template-component-booking-service-name,
 	.template-component-recent-post>li>a>span
 	{
-<<<<<<< Updated upstream
-		color:#43F036;
-=======
-		color:#ffff00;
->>>>>>> Stashed changes
+
+		color:#43f036;
+
 	}
 	
 	a,
 	.template-component-list li>span
 	{
-<<<<<<< Updated upstream
-		color:#000000;
-=======
-		color:#00000;
->>>>>>> Stashed changes
+
+		color:#b1b0a8;
+
 	}
 	
 	.template-page-404 .template-content h1
 	{
-<<<<<<< Updated upstream
-		color:#000000;
-=======
-		color: #43f036;;
->>>>>>> Stashed changes
+
+		color:#b1b0a8;
+
 	}
 		
 	/**************************************************************************/
@@ -557,11 +540,9 @@ body,*,input,textarea
 	.template-footer,
 	.template-component-menu-default>.sf-menu>li ul
 	{
-<<<<<<< Updated upstream
-		background-color:#000000;
-=======
-		background-color:#000000;
->>>>>>> Stashed changes
+
+		background-color:#a6a6a6;
+
 	}
 		
 	.template-header .template-header-top.template-header-top-sticky,
@@ -572,37 +553,27 @@ body,*,input,textarea
 	.flexnav li ul li a,
 	.flexnav .touch-button
 	{
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-		background-color:#5b605b;
-=======
-		background-color:#43f036;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
-=======
-		background-color:#5b5b5b;
->>>>>>> Stashed changes
+
+		background-color:#0d0d0d;
+
 	}
 	
 	.template-component-google-map .template-component-google-map-button,
 	.flexnav li.item-with-ul ul a
 	{
-<<<<<<< Updated upstream
-		background-color: #000;
-=======
-		background-color:#c0ff00;
->>>>>>> Stashed changes
+
+		background-color: #0d0d0d;
+
 	}
 	
 	.template-component-header-subheader>div,
 	.template-component-counter-bar-list>ul>li>div,
 	.template-component-divider
 	{
-<<<<<<< Updated upstream
-		background-color: rgb(0, 0, 0);
+
+		background-color: rgb(104, 103, 98);
 	}
-=======
-		background-color:#000000;
->>>>>>> Stashed changes
+
 	
 	
 	.template-footer .template-component-button:hover,
@@ -627,119 +598,99 @@ body,*,input,textarea
 	.dtpicker-components .dtpicker-compButton:hover,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
-<<<<<<< Updated upstream
-		background-color:#5b605b;
-=======
-		background-color:#808080;
->>>>>>> Stashed changes
+
+		background-color:#a6a6a6;
+
 	}
 	
 	::-moz-selection
 	{
-<<<<<<< Updated upstream
-		background-color:#5b605b;
-=======
-		background-color:#808080;
->>>>>>> Stashed changes
+
+		background-color:#222222;
+
 	}
 	
 	.template-background-color-1,
 	.template-component-blockquote
 	{
-<<<<<<< Updated upstream
-		background-color:#5b605b;
-=======
-		background-color:#5b5b5b;
->>>>>>> Stashed changes
+
+		background-color:#222222;
+
 	}
 	
 	.template-background-color-2,
 	.dtpicker-overlay .dtpicker-compValue:focus
 	{
-<<<<<<< Updated upstream
-		background-color:#5b605b;
-=======
-		background-color:#5b5b5b;
->>>>>>> Stashed changes
+		background-color: #222222;
 	}
 	
 	input
 	{
 		background-color:transparent;
 	}
-	
+
 	body>.template-component-search-form
 	{
-<<<<<<< Updated upstream
-		background-color:#5b605b;
-=======
-		background-color:#5b5b5b;
->>>>>>> Stashed changes
+
+		background-color:#686762;
+
 	}
 	
 	.template-qtip.template-qtip-success.qtip
 	{
-<<<<<<< Updated upstream
-		background-color:#000000;
-=======
-		background-color:#ffff009;
->>>>>>> Stashed changes
+
+		background-color:#05f501;
+
 	}
 	
 	.template-qtip.template-qtip-error.qtip
 	{
-		background-color:#000000;
+		background-color:#a6a6a6;
 	}
 	
 	.template-component-go-to-top
 	{
-<<<<<<< Updated upstream
-		background-color:rgba(46,54,45,0.8);
-=======
-		background-color:rgba(192,255,0,0.4);
->>>>>>> Stashed changes
+
+		background-color:rgba(40,245,21,0.8);
+
 	}
 	
 	.template-component-image .template-component-image-hover
 	{	
-		background:rgba(46,54,45,0.8);
+		background:rgba(49,245,21,0.5);
 	}
 	
 	.template-component-image .template-component-image-hover>span>span>span.template-component-image-hover-divider
 	{
-		background:rgba(46,54,45,0.8);
+		background:rgba(40,245,21,0.5);
 	}
 	
 	.tparrows.preview1::after,
 	.tp-bullets.preview1 .tp-bullet
 	{
-		background:rgb(50, 205, 50);
+		background:rgb(166, 166, 166);
 	}
 	
 	.fancybox-skin
 	{
-<<<<<<< Updated upstream
-		background:#5b605b;
-=======
-		background:#;
->>>>>>> Stashed changes
+
+		background:#a6a6a6;
+
 	}
 	
 	.tparrows.preview1:hover::after,
 	.tp-bullets.preview1 .tp-bullet:hover,
 	.tp-bullets.preview1 .tp-bullet.selected 
 	{
-<<<<<<< HEAD
-		background:#5b605b !important;
-=======
-		background:#43f036 !important;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
+		background:#2ec100 !important;
+
 	}
 
 	.template-component-button,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-		background-color:#43F036;
+		background-color:#a6a6a6;
 	}
 	
 	/**************************************************************************/
@@ -748,25 +699,21 @@ body,*,input,textarea
 	
 	.template-footer .template-footer-bottom
 	{
-<<<<<<< HEAD
-		border-color:#5b605b;
-=======
-		border-color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
+		border-color:#43f036;
+
 	}
 	
 	.template-header .template-header-top .template-header-top-icon-list .template-icon-meta-menu
 	{
-		border-color:rgba(0,0,0,0.85);
+		border-color:rgba(67,240,54,0.85);
 	}
 	
 	.template-header .template-header-top .template-header-top-icon-list .template-icon-meta-menu:hover
 	{
-<<<<<<< HEAD
-		border-color:#000000;
-=======
-		border-color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
+		border-color:#43f036;
+
 	}
 	
 	input,
@@ -801,11 +748,9 @@ body,*,input,textarea
 	.flexnav li a,
 	.flexnav .touch-button
 	{
-<<<<<<< HEAD
-		border-color:#43F036;
-=======
-		border-color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
+		border-color:#2ec100;
+
 	}
 
 	.template-footer .template-component-button:hover,
@@ -827,11 +772,9 @@ body,*,input,textarea
 	.dtpicker-components .dtpicker-compButton:hover,
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
-<<<<<<< HEAD
-		border-color:#43F036;
-=======
-		border-color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
+		border-color:#2ec100;
+
 	}
 	
 	body>.template-component-search-form input
@@ -841,40 +784,32 @@ body,*,input,textarea
 	
 	.template-qtip.template-qtip-success.qtip .qtip-tip 
 	{
-<<<<<<< HEAD
+
 		border-color:#000000;
-=======
-		border-color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
 	}
 	
 	.template-qtip.template-qtip-error.qtip .qtip-tip
 	{
-<<<<<<< HEAD
+
 		border-color:#000000;
-=======
-		border-color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
 	}
 	
 	.template-footer .template-component-button,
 	.template-footer .template-component-form-field
 	{
-<<<<<<< HEAD
+
 		border-color:#000000;
-=======
-		border-color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
 	}
 	
 	.dtpicker-components .dtpicker-compButton,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-<<<<<<< HEAD
+
 		border-color:#000000;
-=======
-		border-color:#000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
 	}
 	
 	/**************************************************************************/
@@ -891,11 +826,9 @@ body,*,input,textarea
 	.template-color-white .template-component-testimonial-list .template-component-testimonial-list-navigation .template-component-testimonial-list-navigation-right,
 	.dtpicker-components .dtpicker-compButton:hover
 	{
-<<<<<<< HEAD
+
 		color:#000000;
-=======
-		color: #9def67;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
 	}
 	
 	.template-color-white .template-component-process-list>ul>li>span,
@@ -911,20 +844,16 @@ body,*,input,textarea
 	.template-color-white.template-component-button,
 	.template-color-white .template-component-button
 	{
-<<<<<<< HEAD
+
 		border-color:#000000;
-=======
-		border-color: #000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
 	}
 	
 	.template-color-white .template-component-header-subheader>div
 	{
-<<<<<<< HEAD
+
 		background-color:#000000;
-=======
-		background-color: #000;
->>>>>>> codespace-pokersly711-redesigned-adventure-5rvv7rg5v9jf79xw
+
 	}
 	
 /******************************************************************************/
@@ -942,7 +871,7 @@ body,*,input,textarea
 	background-attachment:fixed;
 }
 
-	.template-background-image.template-background-image-1	{	background-image:url('../media/image/background-image/1.jpg');	}
+	.template-background-image.template-background-image-1	{	background-image:url("../media/image/background-image/1.jpg");	}
 	.template-background-image.template-background-image-2	{	background-image:url('../media/image/background-image/2.jpg');	}
 	.template-background-image.template-background-image-3	{	background-image:url('../media/image/background-image/3.jpg');	}
 	.template-background-image.template-background-image-4	{	background-image:url('../media/image/background-image/4.jpg');	}
@@ -1169,12 +1098,9 @@ body,*,input,textarea
 		width:64.9572%;
 	}
 	
-/******************************************************************************/
-/* Template layout															  */
-/******************************************************************************/
 
 
-}
+
 
 	.template-content-layout.template-content-layout-sidebar-left .template-content-layout-column-left,
 	.template-content-layout.template-content-layout-sidebar-right .template-content-layout-column-right
@@ -1309,7 +1235,7 @@ form
 		border-width:1px;
 		border-style:solid;
 		padding:10px 15px 10px 15px;
-		-webkit-box-sizing:border-box​;
+		-webkit-box-sizing:border-box;
 		-moz-box-sizing: border-box;
 		box-sizing:border-box;
 	}
@@ -1399,7 +1325,7 @@ form
 
 	[class^="template-icon-feature-"], [class*=" template-icon-feature-"] 
 	{
-		font-family:'template-icon-feature';
+		font-family:'SansSerif';
 		speak-as:none;
 		font-size:48px;
 		font-style:normal;
@@ -2014,9 +1940,8 @@ form
 
 		
 		
-	}
+
 	
-	}
 
 		.template-content .template-section
 		{
@@ -2068,9 +1993,9 @@ form
 	
 			
 			
-		}
+
 		
-		}
+
 		
 		/**********************************************************************/
 		/* Template / Footer / Bottom										  */
@@ -2226,9 +2151,9 @@ form
 	
 
 
-		}
+
 		
-		}
+
 		
 			.template-blog .template-blog-header .template-blog-header-date span
 			{
@@ -2329,9 +2254,9 @@ form
 		
 				
 				
-			}
+
 			
-			}
+
 	
 	/**************************************************************************/
 	/* Blog / Excerpt														  */
@@ -2471,9 +2396,9 @@ form
 		
 
 
-			}
+
 			
-			}
+
 			
 				.template-blog-comment-list>ul>li:first-child>div
 				{
@@ -2574,9 +2499,9 @@ ul.template-widget-list
 
 			
 			
-		}
+
 	
-		}
+
 		
 			.template-widget-service ul,
 			.template-widget-archive ul,
@@ -2617,12 +2542,7 @@ ul.template-widget-list
 						text-decoration:none;
 					}
 					
-						.template-widget-service ul li a span,
 
-
-						}
-					
-						}
 						
 						.template-widget-service ul li a span+span,
 						.template-widget-archive ul li a span+span,
@@ -2643,9 +2563,7 @@ ul.template-widget-list
 
 			
 			
-		}
-		
-		}
+
 		
 			.template-widget-tag li
 			{
@@ -2673,9 +2591,9 @@ ul.template-widget-list
 		
 			
 			
-		}
+
 	
-		}
+
 		
 			.template-widget-latest-post ul,
 			.template-widget-most-comment ul
