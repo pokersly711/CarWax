@@ -65,7 +65,7 @@
 					style="letter-spacing: 4px;"
 					>
 					
-						A New Way
+                    Introducing...
 				</div>
 				
 				<!-- Layer 03 -->
@@ -97,7 +97,7 @@
 					>
 					
 					
-					to get your Shine On!!!
+					Convenience and a Shine!!!
 				</div>
 	
 				<!-- Layer 04 -->
@@ -127,7 +127,7 @@
 					data-responsive_offset="on"
 					>
 					
-					<a class="template-component-button template-color-white" href="#" title="Purchase Template">Learn More</a>
+					<a class="template-component-button template-color-white" href="../page/betaSpecial.php" title="Purchase Template">Learn More</a>
 				</div>
 			</li>
 			

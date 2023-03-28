@@ -321,7 +321,7 @@ textarea
 body,*,input,textarea
 {
 	font-family:"Exo 2", "sans-serif";
-	color: #000;
+	color: #0d0d0d;
 }
 
 .template-component-blockquote,
@@ -334,7 +334,7 @@ body,*,input,textarea
 {
 
 	font-family:"Exo2", sans-serif;
-	color: #000;
+	color: #01c20e;
 
 }
 
@@ -541,7 +541,7 @@ body,*,input,textarea
 	.template-component-menu-default>.sf-menu>li ul
 	{
 
-		background-color:#222222;
+		background-color:#a6a6a6;
 
 	}
 		
@@ -554,7 +554,7 @@ body,*,input,textarea
 	.flexnav .touch-button
 	{
 
-		background-color:#33bd2a;
+		background-color:#0d0d0d;
 
 	}
 	
@@ -562,7 +562,7 @@ body,*,input,textarea
 	.flexnav li.item-with-ul ul a
 	{
 
-		background-color: #b1b0a8;
+		background-color: #0d0d0d;
 
 	}
 	
@@ -599,7 +599,7 @@ body,*,input,textarea
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
 
-		background-color:#222222;
+		background-color:#a6a6a6;
 
 	}
 	
@@ -639,42 +639,42 @@ body,*,input,textarea
 	.template-qtip.template-qtip-success.qtip
 	{
 
-		background-color:#b1b0a8;
+		background-color:#05f501;
 
 	}
 	
 	.template-qtip.template-qtip-error.qtip
 	{
-		background-color:#000000;
+		background-color:#a6a6a6;
 	}
 	
 	.template-component-go-to-top
 	{
 
-		background-color:rgba(56,234,22,0.8);
+		background-color:rgba(40,245,21,0.8);
 
 	}
 	
 	.template-component-image .template-component-image-hover
 	{	
-		background:rgba(159,234,141,0.8);
+		background:rgba(49,245,21,0.5);
 	}
 	
 	.template-component-image .template-component-image-hover>span>span>span.template-component-image-hover-divider
 	{
-		background:rgba(159,234,141,0.8);
+		background:rgba(40,245,21,0.5);
 	}
 	
 	.tparrows.preview1::after,
 	.tp-bullets.preview1 .tp-bullet
 	{
-		background:rgb(104, 103, 98);
+		background:rgb(166, 166, 166);
 	}
 	
 	.fancybox-skin
 	{
 
-		background:#061201;
+		background:#a6a6a6;
 
 	}
 	
@@ -690,7 +690,7 @@ body,*,input,textarea
 	.template-component-button,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-		background-color:#B1B0A8;
+		background-color:#a6a6a6;
 	}
 	
 	/**************************************************************************/
@@ -700,19 +700,19 @@ body,*,input,textarea
 	.template-footer .template-footer-bottom
 	{
 
-		border-color:#5b605b;
+		border-color:#43f036;
 
 	}
 	
 	.template-header .template-header-top .template-header-top-icon-list .template-icon-meta-menu
 	{
-		border-color:rgba(0,0,0,0.85);
+		border-color:rgba(67,240,54,0.85);
 	}
 	
 	.template-header .template-header-top .template-header-top-icon-list .template-icon-meta-menu:hover
 	{
 
-		border-color:#000000;
+		border-color:#43f036;
 
 	}
 	
