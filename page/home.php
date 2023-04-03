@@ -84,9 +84,8 @@
 								</div>
 								
 							</div>
-								
-						</div>
-						
+
+
 					</div>
 					
 					<!-- Section -->
@@ -103,8 +102,7 @@
 					</div>
 					
 					<!-- Section -->
-					<div class="template-section template-background-image template-background-image-5 template-background-image-parallax template-color-white template-clear-fix">
-						
+
 						<!-- Mian -->
 						<div class="template-main">
 
@@ -113,51 +111,50 @@
 								<h2>Carvenience Ondemand</h2>
 								<div></div>
 								<span>We provide the best service at your convenience.</span>
-							</div>	
+							</div>
 
-							<!-- Space -->							
+							<!-- Space -->
 							<div class="template-component-space template-component-space-1"></div>
-							
-							<!-- Process list -->							
+
+							<!-- Process list -->
 							<div class="template-component-process-list template-clear-fix">
-								
+
 								<!-- Layout 25x25x25x25% -->
 								<ul class="template-layout-25x25x25x25 template-clear-fix template-layout-margin-reset">
-									
+
 									<!-- Left column -->
 									<li class="template-layout-column-left">
 										<span class="template-icon-feature-check"></span>
 										<h5>1. Package</h5>
 										<span class="template-icon-meta-arrow-large-rl"></span>
 									</li>
-									
+
 									<!-- Center left column -->
 									<li class="template-layout-column-center-left">
 										<span class="template-icon-feature-car-check"></span>
 										<h5>2. Time</h5>
 										<span class="template-icon-meta-arrow-large-rl"></span>
 									</li>
-									
+
 									<!-- Center right column -->
 									<li class="template-layout-column-center-right">
 										<span class="template-icon-feature-payment"></span>
 										<h5>3. Location</h5>
 										<span class="template-icon-meta-arrow-large-rl"></span>
 									</li>
-									
+
 									<!-- Right column -->
 									<li class="template-layout-column-right">
 										<span class="template-icon-feature-vacuum-cleaner"></span>
 										<h5>4. Book</h5>
 									</li>
-									
+
 								</ul>
-								
+
 							</div>
-							
+
 						</div>
-							
-						
+					</div>
 					</div>
 					
 					<!-- Section -->
