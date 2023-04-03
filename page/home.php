@@ -15,82 +15,77 @@
 				<div class="template-content">
 
 					<!-- Section -->
-					<div class="template-section template-section-padding-1 template-clear-fix template-main">
-						
-						<!-- Header + subheader -->
-						<div class="template-component-header-subheader">
-							<h2>Carvenience</h2>
-							<div></div>
-                            <span>Shine on your Time!</span>
-						</div>	
-						
-						<!-- Layout 33x66% -->
-						<div class="template-layout-33x66 template-clear-fix">
-							
-							<!-- Left column -->
-							<div class="template-layout-column-left">
-								<img src="media/image/sample/460x678/image_01.JPG" alt=""/>
-							</div>
-							
-							<!-- Right column -->
-							<div class="template-layout-column-right">
-								
-								<!-- Text -->
-								<p class="template-padding-reset">
-                                    Carvenience OnDemand Carwash is a startup company that provides on-demand car wash services to busy individuals who value a clean and well-maintained car. The concept behind Carvenience OnDemand Carwash is to offer a convenient solution for people who want to keep their vehicles clean, but struggle to find the time in their busy schedules to do so.
-                                    <br>
-                                    With Carvenience OnDemand Carwash, customers can schedule a car wash service at a time and location that is convenient for them. Whether it's at home, at work, or at another location, our team of experienced Shine Specialists will come to the customer's location and provide an exceptional car wash experience.
-                                    <br>
-                                    We understand that our customers' time is valuable, which is why we offer flexible scheduling options and a variety of packages to suit different needs. Our services are available seven days a week, so customers can choose a time that fits their schedule.
-                                    <br>
-                                    Our mission is to provide an exceptional car wash experience wherever it is convenient for our clients. We believe that a clean and well-maintained car is important in helping people get through their busy schedules. At Carvenience OnDemand Carwash, we value reliability, professionalism, and customer satisfaction.
-								</p>
-																
-								<!-- Feature list -->
-								<div class="template-component-feature-list template-component-feature-list-position-top template-clear-fix">
-									
-									<!-- Layout 50x50% -->
-									<ul class="template-layout-50x50 template-clear-fix">
-										
-										<!-- Left column -->
-										<li class="template-layout-column-left template-margin-bottom-reset">
-											<div class="template-component-space template-component-space-2"></div>
-											<span class="template-icon-feature-water-drop"></span>
-											<h5>The Best Car Wash</h5>
-											<ul class="template-component-list">
-												<li><span class="template-icon-meta-check"></span>We offer multiple services at a great value</li>
-												<li><span class="template-icon-meta-check"></span>We utilize the best products in the industry made by, Chemical Guys.</li>
-												<li><span class="template-icon-meta-check"></span>Well trained Shine Specialist, with close attention to detail.</li>
-												<li><span class="template-icon-meta-check"></span>We strive on highly secure technology</li>
-												<li><span class="template-icon-meta-check"></span>We want to hear from you.</li>
-											</ul>
-										</li>
-										
-										<!-- Right column -->
-										<li class="template-layout-column-right template-margin-bottom-reset">
-											<div class="template-component-space template-component-space-2"></div>
-											<span class="template-icon-feature-user-chat"></span>
-											<h5>Contacting Us</h5>
-											<ul class="template-component-list">
-												<li><span class="template-icon-meta-check"></span>We are very open and easy to reach company</li>
-												<li><span class="template-icon-meta-check"></span>Our email is checked hourly during the day</li>
-												<li><span class="template-icon-meta-check"></span>Book an appointment online under 3 minutes</li>
-												<li><span class="template-icon-meta-check"></span>Our toll free number will be answered</li>
-												<li><span class="template-icon-meta-check"></span>You can pay online for your appointment</li>
-											</ul>
 
-                                        </li>
-                                    </ul>
-								</div>
-								
-							</div>
+					<!-- Header + subheader -->
+					<div class="template-component-header-subheader">
+						<h2>Carvenience</h2>
+						<div></div>
+						<span>Shine on your Time!</span>
+					</div>
 
+					<!-- Layout 33x66% -->
+
+					<!-- Left column -->
+					<img src="media/image/sample/460x678/image_01.JPG" alt=""/>
+
+					<!-- Right column -->
+					<div class="template-layout-column-right">
+
+						<!-- Text -->
+						<p class="template-padding-reset">
+							Carvenience OnDemand Carwash is a startup company that provides on-demand car wash services to busy individuals who value a clean and well-maintained car. The concept behind Carvenience OnDemand Carwash is to offer a convenient solution for people who want to keep their vehicles clean, but struggle to find the time in their busy schedules to do so.
+							<br>
+							With Carvenience OnDemand Carwash, customers can schedule a car wash service at a time and location that is convenient for them. Whether it's at home, at work, or at another location, our team of experienced Shine Specialists will come to the customer's location and provide an exceptional car wash experience.
+							<br>
+							We understand that our customers' time is valuable, which is why we offer flexible scheduling options and a variety of packages to suit different needs. Our services are available seven days a week, so customers can choose a time that fits their schedule.
+							<br>
+							Our mission is to provide an exceptional car wash experience wherever it is convenient for our clients. We believe that a clean and well-maintained car is important in helping people get through their busy schedules. At Carvenience OnDemand Carwash, we value reliability, professionalism, and customer satisfaction.
+						</p>
+
+						<!-- Feature list -->
+						<div class="template-component-feature-list template-component-feature-list-position-top template-clear-fix">
+
+							<!-- Layout 50x50% -->
+							<ul class="template-layout-50x50 template-clear-fix">
+
+								<!-- Left column -->
+								<li class="template-layout-column-left template-margin-bottom-reset">
+									<div class="template-component-space template-component-space-2"></div>
+									<span class="template-icon-feature-water-drop"></span>
+									<h5>The Best Car Wash</h5>
+									<ul class="template-component-list">
+										<li><span class="template-icon-meta-check"></span>We offer multiple services at a great value</li>
+										<li><span class="template-icon-meta-check"></span>We utilize the best products in the industry made by, Chemical Guys.</li>
+										<li><span class="template-icon-meta-check"></span>Well trained Shine Specialist, with close attention to detail.</li>
+										<li><span class="template-icon-meta-check"></span>We strive on highly secure technology</li>
+										<li><span class="template-icon-meta-check"></span>We want to hear from you.</li>
+									</ul>
+								</li>
+
+								<!-- Right column -->
+								<li class="template-layout-column-right template-margin-bottom-reset">
+									<div class="template-component-space template-component-space-2"></div>
+									<span class="template-icon-feature-user-chat"></span>
+									<h5>Contacting Us</h5>
+									<ul class="template-component-list">
+										<li><span class="template-icon-meta-check"></span>We are very open and easy to reach company</li>
+										<li><span class="template-icon-meta-check"></span>Our email is checked hourly during the day</li>
+										<li><span class="template-icon-meta-check"></span>Book an appointment online under 3 minutes</li>
+										<li><span class="template-icon-meta-check"></span>Our toll free number will be answered</li>
+										<li><span class="template-icon-meta-check"></span>You can pay online for your appointment</li>
+									</ul>
+
+								</li>
+							</ul>
+						</div>
 
 					</div>
-					
+
+
+
 					<!-- Section -->
 					<div class="template-section template-section-padding-reset template-clear-fix template-background-color-1">
-						
+
 						<!-- Call to action -->
 						<div class="template-component-call-to-action">
 							<div class="template-main">
@@ -98,64 +93,63 @@
 								<a href="<?php Template::getPageURL('book-your-wash'); ?>" class="template-component-button">Book Now</a>
 							</div>
 						</div>
-						
+
 					</div>
-					
+
 					<!-- Section -->
 
-						<!-- Mian -->
-						<div class="template-main">
+					<!-- Mian -->
+					<div class="template-main">
 
-							<!-- Header + subheader -->
-							<div class="template-component-header-subheader">
-								<h2>Carvenience Ondemand</h2>
-								<div></div>
-								<span>We provide the best service at your convenience.</span>
-							</div>
+						<!-- Header + subheader -->
+						<div class="template-component-header-subheader">
+							<h2>Carvenience Ondemand</h2>
+							<div></div>
+							<span>We provide the best service at your convenience.</span>
+						</div>
 
-							<!-- Space -->
-							<div class="template-component-space template-component-space-1"></div>
+						<!-- Space -->
+						<div class="template-component-space template-component-space-1"></div>
 
-							<!-- Process list -->
-							<div class="template-component-process-list template-clear-fix">
+						<!-- Process list -->
+						<div class="template-component-process-list template-clear-fix">
 
-								<!-- Layout 25x25x25x25% -->
-								<ul class="template-layout-25x25x25x25 template-clear-fix template-layout-margin-reset">
+							<!-- Layout 25x25x25x25% -->
+							<ul class="template-layout-25x25x25x25 template-clear-fix template-layout-margin-reset">
 
-									<!-- Left column -->
-									<li class="template-layout-column-left">
-										<span class="template-icon-feature-check"></span>
-										<h5>1. Package</h5>
-										<span class="template-icon-meta-arrow-large-rl"></span>
-									</li>
+								<!-- Left column -->
+								<li class="template-layout-column-left">
+									<span class="template-icon-feature-check"></span>
+									<h5>1. Package</h5>
+									<span class="template-icon-meta-arrow-large-rl"></span>
+								</li>
 
-									<!-- Center left column -->
-									<li class="template-layout-column-center-left">
-										<span class="template-icon-feature-car-check"></span>
-										<h5>2. Time</h5>
-										<span class="template-icon-meta-arrow-large-rl"></span>
-									</li>
+								<!-- Center left column -->
+								<li class="template-layout-column-center-left">
+									<span class="template-icon-feature-car-check"></span>
+									<h5>2. Time</h5>
+									<span class="template-icon-meta-arrow-large-rl"></span>
+								</li>
 
-									<!-- Center right column -->
-									<li class="template-layout-column-center-right">
-										<span class="template-icon-feature-payment"></span>
-										<h5>3. Location</h5>
-										<span class="template-icon-meta-arrow-large-rl"></span>
-									</li>
+								<!-- Center right column -->
+								<li class="template-layout-column-center-right">
+									<span class="template-icon-feature-payment"></span>
+									<h5>3. Location</h5>
+									<span class="template-icon-meta-arrow-large-rl"></span>
+								</li>
 
-									<!-- Right column -->
-									<li class="template-layout-column-right">
-										<span class="template-icon-feature-vacuum-cleaner"></span>
-										<h5>4. Book</h5>
-									</li>
+								<!-- Right column -->
+								<li class="template-layout-column-right">
+									<span class="template-icon-feature-vacuum-cleaner"></span>
+									<h5>4. Book</h5>
+								</li>
 
-								</ul>
-
-							</div>
+							</ul>
 
 						</div>
+
 					</div>
-					</div>
+				</div>
 					
 					<!-- Section -->
 					<div class="template-section template-section-padding-1 template-clear-fix template-main">

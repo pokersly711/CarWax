@@ -45,7 +45,8 @@
 							<li class="template-layout-column-left">
 								<div class="template-component-image template-component-image-preloader">
 									<a href="<?php Template::getPageURL('single-service-right-sidebar'); ?>">
-										<img src="media/image/sample/460x306/image_05.jpg" alt=""/>
+										<img src="media/image/sample/460x306/image_01.jpg" alt=""/>
+										<p>Photo by <a href="Karolina Grabowska</a> from <a href="https://www.pexels.com/photo/person-washing-a-car-with-sponge-4870727/></a></p>
 										<span class="template-component-image-hover"></span>
 									</a>
 								</div>
@@ -61,13 +62,16 @@
 							<li class="template-layout-column-center">
 								<div class="template-component-image template-component-image-preloader">
 									<a href="<?php Template::getPageURL('single-service-right-sidebar'); ?>">
-										<img src="media/image/sample/460x306/image_06.jpg" alt=""/>
+										<img src="media/image/sample/460x306/image_02.jpg" alt=""/>
+										<p>Photo by Tima Miroshnichenko" from <a href="https://www.pexels.com/photo/a-person-wiping-a-car-with-a-cleaning-cloth-6872572/"></a></p>
+
+										Photo by :
 										<span class="template-component-image-hover"></span>
 									</a>
 								</div>
 								<h5 class="template-margin-top-2">
 									<a href="<?php Template::getPageURL('single-service-right-sidebar'); ?>">
-										We use the best products on the market.
+										Protective Shine All the time.
 									</a>
 								</h5>
 								<p class="template-padding-reset">Chemical Guys automotive products is the only product we use.</p>
@@ -77,16 +81,17 @@
 							<li class="template-layout-column-right">
 								<div class="template-component-image template-component-image-preloader">
 									<a href="<?php Template::getPageURL('single-service-right-sidebar'); ?>">
-										<img src="media/image/sample/460x306/image_07.jpg" alt=""/>
+										<img src="media/image/sample/460x306/image_03.jpg" alt=""/>
+
 										<span class="template-component-image-hover"></span>
 									</a>
 								</div>
 								<h5 class="template-margin-top-2">
 									<a href="<?php Template::getPageURL('single-service-right-sidebar'); ?>">
-										Foam Wash
+										Chemnical Guys Automotive Products
 									</a>
 								</h5>
-								<p class="template-padding-reset">Phasellus sit amet egestas ex praesent sollicitudinal mattis lacus non facilisis nunc. Quisque consectetura odio ut sagittis consequat nisl.</p>
+								<p class="template-padding-reset">Carvenience hss partnered with Chemnical Guys Inc, so we can guarantee the brightest shine everytime.</p>
 							</li>
 							
 						</ul>
