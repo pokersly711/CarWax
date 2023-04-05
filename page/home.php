@@ -2,9 +2,7 @@
 
 				<!-- Header -->
 				<div class="template-header">
-<?php
-		Template::includeTemplateHeaderTop();
-?>
+<?php Template::includeTemplateHeaderTop(); ?>
 					<div class="template-header-bottom">
 						<?php Template::includeFile('slider'); ?>
 					</div>
@@ -376,8 +374,8 @@
 									<span class="template-icon-feature-phone-circle"></span>
 									<h5>Call Us At</h5>
 									<p>
-										(+505) 122 225 225<br/>
-										(+505) 122 225 224<br/>
+										(+1) 334 326 8734<br/>
+										(+1) <br/>
 									</p>
 								</li>
 								
@@ -386,8 +384,8 @@
 									<span class="template-icon-feature-location-map"></span>
 									<h5>Our Address</h5>
 									<p>
-										464 Rhode Island Av.<br/>
-										Portland, OR 97219
+										1208  10th ave<br/>
+										Jasper, AL 35501
 									</p>
 								</li>
 								
