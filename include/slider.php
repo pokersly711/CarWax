@@ -62,7 +62,7 @@
 					data-splitin="none" 
 					data-splitout="none" 
 					data-responsive_offset="on"
-					style="letter-spacing: 4px;"
+					style="letter-spacing: 4px;color: #01c20e;"
 					>
 					
                     Introducing...
@@ -93,7 +93,7 @@
 					data-splitin="none" 
 					data-splitout="none" 
 					data-responsive_offset="on"
-					style="letter-spacing: 4px;"
+					style="letter-spacing: 4px;color: #01c20e;"
 					>
 					
 					
@@ -283,8 +283,8 @@
 					data-splitin="none" 
 					data-splitout="none" 
 					data-responsive_offset="on"
-					style="letter-spacing: 2px;"
-					 style="color: #43f036`"
+					style="letter-spacing: 2px;color: #01c20e;"
+
 					>
 					
 					in Automotive!
@@ -315,9 +315,7 @@
 					data-splitin="none" 
 					data-splitout="none" 
 					data-responsive_offset="on"
-					style="letter-spacing: 4px;"
-					 style="color: #43f036;"
-					>
+					style="letter-spacing: 4px;color: #01c20e;"
 				</div>
 				
 				<!-- Layer 03 -->
@@ -345,9 +343,8 @@
 					data-splitin="none" 
 					data-splitout="none" 
 					data-responsive_offset="on"
-					style="letter-spacing: 4px;"
-					 style="color: #43f036"
-					>
+					style="letter-spacing: 4px;color: #01c20e;"
+				>
 					
 				     On Demand Shine!
 				</div>
