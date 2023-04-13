@@ -70,13 +70,13 @@
 										<li class="template-layout-column-right template-margin-bottom-reset">
 											<div class="template-component-space template-component-space-2"></div>
 											<span class="template-icon-feature-user-chat"></span>
-											<h5>Contacting Us</h5>
+											<h5>In search of partners</h5>
 											<ul class="template-component-list">
-												<li><span class="template-icon-meta-check"></span>We are very open and easy to reach company</li>
-												<li><span class="template-icon-meta-check"></span>Our email is checked hourly during the day</li>
-												<li><span class="template-icon-meta-check"></span>Book an appointment online under 3 minutes</li>
-												<li><span class="template-icon-meta-check"></span>Our toll free number will be answered</li>
-												<li><span class="template-icon-meta-check"></span>You can pay online for your appointment</li>
+												<li><span class="template-icon-meta-check"></span>You love automobiles</li>
+												<li><span class="template-icon-meta-check"></span>have close attention to detail,</li>
+												<li><span class="template-icon-meta-check"></span>Entrepreneur Spirit</li>
+												<li><span class="template-icon-meta-check"></span>Phenomenal Drive</li>
+												<li><span class="template-icon-meta-check"></span>Outstanding Personality</li>
 											</ul>
 
                                         </li>
@@ -95,8 +95,8 @@
 						<!-- Call to action -->
 						<div class="template-component-call-to-action">
 							<div class="template-main">
-								<h3>Convenient and Secure!</h3>
-								<a href="<?php Template::getPageURL('book-your-wash'); ?>" class="template-component-button">Book Now</a>
+								<h3>Beta Packages</h3>
+								<a href="<?php Template::getPageURL('packagesPrepaid.php'); ?>" class="template-component-button">Limited Time</a>
 							</div>
 						</div>
 						
