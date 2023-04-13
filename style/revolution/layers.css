@@ -582,7 +582,7 @@ website:   	http://www.themepunch.com
 	border-color:#ffd658;
 	border-style:none;
 	border-width:0;
-	color:#55la8b;
+	color:#43f030;
 	font-family:"racing one sans";
 	font-size:34px;
 	font-weight:300;
@@ -598,7 +598,7 @@ website:   	http://www.themepunch.com
 	border-color:#ffd658;
 	border-style:none;
 	border-width:0;
-	color:#55la8b;
+	color:#43f030;
 	font-family:"racing one sans";
 	font-size:20px;
 	font-weight:800;
@@ -613,7 +613,7 @@ website:   	http://www.themepunch.com
 	border-color:#ffd658;
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#43f030;
 	font-family:"racing one sans";
 	font-size:30px;
 	font-weight:300;
@@ -628,7 +628,7 @@ website:   	http://www.themepunch.com
 	border-color:#ffd658;
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#43f030;
 	font-family:"racing one sans";
 	font-size:58px;
 	font-weight:800;
@@ -2267,7 +2267,7 @@ website:   	http://www.themepunch.com
 	border-radius:0 0 0 0;
 	border-style:none;
 	border-width:0;
-	color:rgba(111,124,130,1.00);
+	color:rgba(56,244,22,1.00);
 	font-family:roboto;
 	font-size:19px;
 	font-style:normal;
@@ -2286,7 +2286,7 @@ website:   	http://www.themepunch.com
 	border-radius:0 0 0 0;
 	border-style:none;
 	border-width:0;
-	color:rgba(41,46,49,1.00);
+	color:rgba(56,244,22,1.00);
 	font-family:roboto;
 	font-size:25px;
 	font-style:normal;
@@ -2316,7 +2316,7 @@ website:   	http://www.themepunch.com
 	border-radius:0 0 0 0;
 	border-style:none;
 	border-width:0;
-	color:rgba(41,46,49,1.00);
+	color:rgba(56,244,22,1.00);
 	font-family:roboto;
 	font-size:21px;
 	font-style:normal;
@@ -2335,7 +2335,7 @@ website:   	http://www.themepunch.com
 	border-radius:0 0 0 0;
 	border-style:none;
 	border-width:0;
-	color:rgba(185,186,187,1.00);
+	color:rgba(56,244,22,1.00);
 	font-family:roboto;
 	font-size:15px;
 	font-style:normal;
@@ -4084,7 +4084,7 @@ tp-caption.Team-Thumb,
 }
 .tp-caption.Team-Social:hover,
 .Team-Social:hover {
-    color: rgba(255, 255, 255, 1.00);
+    color: rgba(56, 244, 22, 1.00);
     text-decoration: none;
     background-color: transparent;
     border-color: transparent;
@@ -4096,7 +4096,7 @@ tp-caption.Team-Thumb,
 
 .tp-caption.VideoControls-Play,
 .VideoControls-Play {
-    color: rgba(0, 0, 0, 1.00);
+    color: rgba(56, 244, 22, 1.00);
     font-size: 50px;
     line-height: 120px;
     font-weight: 500;
@@ -4113,7 +4113,7 @@ tp-caption.Team-Thumb,
 }
 .tp-caption.VideoControls-Play:hover,
 .VideoControls-Play:hover {
-    color: rgba(0, 0, 0, 1.00);
+    color: rgba(56, 244, 22, 1.00);
     text-decoration: none;
     background-color: rgba(255, 255, 255, 1.00);
     border-color: rgba(0, 0, 0, 1.00);
@@ -4159,7 +4159,7 @@ tp-caption.Team-Thumb,
 }
 .tp-caption.VideoPlayer-Social,
 .VideoPlayer-Social {
-    color: rgba(255, 255, 255, 1.00);
+    color: rgba(55, 244, 22, 1.00);
     font-size: 50px;
     line-height: 50px;
     font-weight: 400;
@@ -4176,7 +4176,7 @@ tp-caption.Team-Thumb,
 }
 .tp-caption.VideoPlayer-Social:hover,
 .VideoPlayer-Social:hover {
-    color: rgba(255, 255, 255, 1.00);
+    color: rgba(56, 244, 22, 1.00);
     text-decoration: none;
     background-color: transparent;
     border-color: transparent;
@@ -4232,11 +4232,12 @@ tp-caption.Team-Thumb,
 }
 .tp-caption.VideoControls-Pause:hover,
 .VideoControls-Pause:hover {
-    color: rgba(0, 0, 0, 1.00);
-    text-decoration: none;
-    background-color: rgba(255, 255, 255, 1.00);
-    border-color: rgba(0, 0, 0, 1.00);
-    border-style: solid;
-    border-width: 0px;
-    border-radius: 100px 100px 100px 100px;
-    cursor: pointer
+	color: rgba(0, 0, 0, 1.00);
+	text-decoration: none;
+	background-color: rgba(255, 255, 255, 1.00);
+	border-color: rgba(0, 0, 0, 1.00);
+	border-style: solid;
+	border-width: 0px;
+	border-radius: 100px 100px 100px 100px;
+	cursor: pointer;
+}
