@@ -13,12 +13,12 @@ website:   	http://www.themepunch.com
 
 .tp-caption.Twitter-Content a,.tp-caption.Twitter-Content a:visited
 {
-	color:#0084B4!important;
+	color:#43f030!important;
 }
 
 .tp-caption.Twitter-Content a:hover
 {
-	color:#0084B4!important;
+	color:#43f030!important;
 	text-decoration:underline!important;
 }
 
@@ -43,8 +43,8 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#9def67;
-	font-family:Arial;
+	color:#43f030;
+	font-family:"Racing one sans";
 	font-size:14px;
 	font-weight:700;
 	line-height:20px;
@@ -58,8 +58,8 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#9def67;
-	font-family:Arial;
+	color:#43f030;
+	font-family:"Racing one sans";
 	font-size:20px;
 	font-weight:700;
 	line-height:20px;
@@ -73,8 +73,8 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#55la8b;
-	font-family:Exo;
+	color:#43f030;
+	font-family:"Racing one sans";
 	font-size:40px;
 	font-weight:700;
 	line-height:40px;
@@ -88,8 +88,8 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#55la8b;
-	font-family:Arial;
+	color:#43f030;
+	font-family:"Racing one sans";
 	font-size:60px;
 	font-weight:700;
 	letter-spacing:-2px;
@@ -105,8 +105,8 @@ website:   	http://www.themepunch.com
 	background-color:#5b6505b;
 	border-style:none;
 	border-width:0;
-	color:#55la8b;
-	font-family:Arial;
+	color:#43f030;
+	font-family:"Racing one sans";
 	font-size:60px;
 	font-weight:800;
 	line-height:60px;
@@ -119,11 +119,11 @@ website:   	http://www.themepunch.com
 
 .tp-caption.very_big_black,.very_big_black
 {
-	background-color:#5b6505b;
+	background-color:#000000;
 	border-style:none;
 	border-width:0;
-	color:#000;
-	font-family:Arial;
+	color:#43f030;
+	font-family:"Racing one sans";
 	font-size:60px;
 	font-weight:700;
 	line-height:60px;
@@ -138,7 +138,7 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#43f030;
 	font-family:"Racing one sans", sans-serif;
 	font-size:24px;
 	font-weight:800;
@@ -153,7 +153,7 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#55la8b;
+	color:#43f030;
 	font-family:"racing one sans", sans-serif;
 	font-size:24px;
 	font-weight:800;
@@ -168,7 +168,7 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#43f030;
 	font-family:"racing one sans", sans-serif;
 	font-size:24px;
 	font-weight:300;
@@ -184,7 +184,7 @@ website:   	http://www.themepunch.com
 	background-color:#4e5b6c;
 	border-style:none;
 	border-width:0;
-	color:#55la8b;
+	color:#43f030;
 	font-family:"racing one sans", sans-serif;
 	font-size:30px;
 	font-weight:800;
@@ -201,7 +201,7 @@ website:   	http://www.themepunch.com
 	background-color:#de543e;
 	border-style:none;
 	border-width:0;
-	color:#55la8b;
+	color:#43f030;
 	font-family:"racing one sans", sans-serif;
 	font-size:30px;
 	font-weight:300;
@@ -217,8 +217,8 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#555;
-	font-family:Arial;
+	color:#43f030;
+	font-family:Exo2;
 	font-size:14px;
 	line-height:22px;
 	margin:0;
@@ -236,7 +236,7 @@ website:   	http://www.themepunch.com
 
 .tp-caption.black,.black
 {
-	color:#000;
+	color:#43f030;
 	text-shadow:none;
 }
 
@@ -248,7 +248,7 @@ website:   	http://www.themepunch.com
 .tp-caption.thinheadline_dark,.thinheadline_dark
 {
 	background-color:transparent;
-	color:rgba(0,0,0,0.85);
+	color:rgba(56,224,22,0.85);
 	font-family:"racing one sans";
 	font-size:30px;
 	font-weight:300;
@@ -260,7 +260,7 @@ website:   	http://www.themepunch.com
 .tp-caption.thintext_dark,.thintext_dark
 {
 	background-color:transparent;
-	color:rgba(0,0,0,0.85);
+	color:rgba(56,224,22,0.85);
 	font-family:"racing one sans";
 	font-size:16px;
 	font-weight:300;
@@ -275,7 +275,7 @@ website:   	http://www.themepunch.com
 	-webkit-border-radius:0;
 	background-color:#000;
 	border-radius:0;
-	color:#55la8b;
+	color:#43f030;
 	font-family:"racing one sans";
 	font-size:50px;
 	font-weight:300;
@@ -291,7 +291,7 @@ website:   	http://www.themepunch.com
 	-webkit-border-radius:0;
 	background-color:#db4360;
 	border-radius:0;
-	color:#55la8b;
+	color:#43f030;
 	font-family:"racing one sans";
 	font-size:50px;
 	font-weight:300;

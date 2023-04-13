@@ -97,7 +97,7 @@
 					>
 					
 					
-					Convenience and a Shine!!!
+
 				</div>
 	
 				<!-- Layer 04 -->
@@ -161,7 +161,7 @@
 					data-splitin="none" 
 					data-splitout="none" 
 					data-responsive_offset="on"
-					style="letter-spacing: 2px;"
+					style="letter-spacing: 2px; color: #01c20e;"
 					>
 					
 				</div>
@@ -177,24 +177,19 @@
 					data-width="['auto','auto','auto','auto','300']"
 					data-height="auto"
 					data-basealign="grid"
-					
-					data-transform_idle="o:1;"
-					
-					data-transform_in="o:1;x:0px;y:[100%];z:0px;s:2000;e:Power4.easeInOut;"
+					 data-transform_idle="o:1;"
+					 data-transform_in="o:1;x:0px;y:[100%];z:0px;s:2000;e:Power4.easeInOut;"
 					data-transform_out="o:1;x:0px;y:[100%];z:0px;s:1000;e:Power4.easeInOut;"
-					
-					data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+					 data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
 					data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
-					
-					data-start="1000"
-					
-					data-splitin="none" 
+					 data-start="1000"
+					 data-splitin="none"
 					data-splitout="none" 
 					data-responsive_offset="on"
-					style="letter-spacing: 4px;"
+					style="letter-spacing: 4px; color: #01c20e;"
 					>
 					
-				    Your Time, 
+				    A new Concept,
 				</div>
 				
 				<!-- Layer 03 -->
@@ -222,10 +217,10 @@
 					data-splitin="none" 
 					data-splitout="none" 
 					data-responsive_offset="on"
-					style="letter-spacing: 4px;"
+					style="letter-spacing: 4px; color: #01c20e;"
 					>
 					
-					Your Location!!!				</div>
+									</div>
 	
 				<!-- Layer 04 -->
 				<div class="tp-caption tp-resizeme" 
@@ -289,9 +284,10 @@
 					data-splitout="none" 
 					data-responsive_offset="on"
 					style="letter-spacing: 2px;"
+					 style="color: #43f036`"
 					>
 					
-					Easy Booking,
+					in Automotive!
 				</div>
 				
 				<!-- Layer 02 -->
@@ -320,9 +316,8 @@
 					data-splitout="none" 
 					data-responsive_offset="on"
 					style="letter-spacing: 4px;"
+					 style="color: #43f036;"
 					>
-					
-					Professional Service!!!
 				</div>
 				
 				<!-- Layer 03 -->
@@ -351,9 +346,10 @@
 					data-splitout="none" 
 					data-responsive_offset="on"
 					style="letter-spacing: 4px;"
+					 style="color: #43f036"
 					>
 					
-				     Limited Time Sign Up Special!!!
+				     On Demand Shine!
 				</div>
 	
 				<!-- Layer 04 -->
@@ -471,7 +467,7 @@ var tpj=jQuery;
 				autoHeight:"off",
 				hideSliderAtLimit:0,
 				hideCaptionAtLimit:0,
-				hideAllCaptionAtLilmit:0,
+				hideAllCaptionAtLimit:0,
 				debugMode:false,
 				fallbacks: {
 					simplifyAll:"off",

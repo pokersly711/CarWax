@@ -321,7 +321,7 @@ textarea
 body,*,input,textarea
 {
 	font-family:"Exo 2", "sans-serif";
-	color: #0d0d0d;
+	color: #01c20e;
 }
 
 .template-component-blockquote,
@@ -440,7 +440,7 @@ body,*,input,textarea
 	.fancybox-title.fancybox-title-inside-wrap
 	{
 
-		color: #43f036;
+		color: #01c20e;
 
 	}
 
@@ -470,7 +470,7 @@ body,*,input,textarea
 	.dtpicker-buttonCont .dtpicker-button
 	{
 
-		color: #43f036;
+		color: #01c20e;
 
 	}
 	
@@ -499,7 +499,7 @@ body,*,input,textarea
 	[class^="template-icon-feature-"],[class*=" template-icon-feature-"] 
 	{
 
-		color: #33bd2a;
+		color: #01c20e;
 
 	}
 	
@@ -514,7 +514,7 @@ body,*,input,textarea
 	.template-component-recent-post>li>a>span
 	{
 
-		color:#43f036;
+		color: #01c20e;
 
 	}
 	
@@ -541,7 +541,7 @@ body,*,input,textarea
 	.template-component-menu-default>.sf-menu>li ul
 	{
 
-		background-color:#a6a6a6;
+		background-color: #0d0d0d;
 
 	}
 		
@@ -599,14 +599,14 @@ body,*,input,textarea
 	.dtpicker-buttonCont .dtpicker-button:hover
 	{
 
-		background-color:#a6a6a6;
+		background-color:#01c20e;
 
 	}
 	
 	::-moz-selection
 	{
 
-		background-color:#222222;
+		background-color:#01c20e;
 
 	}
 	
@@ -639,7 +639,7 @@ body,*,input,textarea
 	.template-qtip.template-qtip-success.qtip
 	{
 
-		background-color:#05f501;
+		background-color:#01c20e;
 
 	}
 	
@@ -690,7 +690,7 @@ body,*,input,textarea
 	.template-component-button,
 	.dtpicker-buttonCont .dtpicker-button
 	{
-		background-color:#a6a6a6;
+		background-color:#01c20e;
 	}
 	
 	/**************************************************************************/
@@ -700,7 +700,7 @@ body,*,input,textarea
 	.template-footer .template-footer-bottom
 	{
 
-		border-color:#43f036;
+		border-color:#01c20e;
 
 	}
 	
@@ -712,7 +712,7 @@ body,*,input,textarea
 	.template-header .template-header-top .template-header-top-icon-list .template-icon-meta-menu:hover
 	{
 
-		border-color:#43f036;
+		border-color:#0d0d0d;
 
 	}
 	
@@ -827,7 +827,7 @@ body,*,input,textarea
 	.dtpicker-components .dtpicker-compButton:hover
 	{
 
-		color:#000000;
+		color: #43f030;
 
 	}
 	
