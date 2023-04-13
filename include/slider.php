@@ -96,9 +96,7 @@
 					style="letter-spacing: 4px;color: #01c20e;"
 					>
 					
-					
-
-				</div>
+					On Demand Carwash				</div>
 	
 				<!-- Layer 04 -->
 				<div class="tp-caption tp-resizeme" 
@@ -163,7 +161,7 @@
 					data-responsive_offset="on"
 					style="letter-spacing: 2px; color: #01c20e;"
 					>
-					
+					A
 				</div>
 				
 				<!-- Layer 02 -->
@@ -189,7 +187,7 @@
 					style="letter-spacing: 4px; color: #01c20e;"
 					>
 					
-				    A new Concept,
+					more convenient
 				</div>
 				
 				<!-- Layer 03 -->
@@ -219,7 +217,7 @@
 					data-responsive_offset="on"
 					style="letter-spacing: 4px; color: #01c20e;"
 					>
-					
+					way to shine!
 									</div>
 	
 				<!-- Layer 04 -->
@@ -287,7 +285,7 @@
 
 					>
 					
-					in Automotive!
+
 				</div>
 				
 				<!-- Layer 02 -->
@@ -315,7 +313,8 @@
 					data-splitin="none" 
 					data-splitout="none" 
 					data-responsive_offset="on"
-					style="letter-spacing: 4px;color: #01c20e;"
+					style="letter-spacing: 4px;color: #01c20e;">
+					A new way
 				</div>
 				
 				<!-- Layer 03 -->
@@ -346,7 +345,7 @@
 					style="letter-spacing: 4px;color: #01c20e;"
 				>
 					
-				     On Demand Shine!
+				     to shine.
 				</div>
 	
 				<!-- Layer 04 -->
@@ -375,6 +374,7 @@
 					data-splitout="none" 
 					data-responsive_offset="on"
 					>
+					Check out our special pricing.
 					
 					<a class="template-component-button template-color-white" href="#" title="Purchase Template">Packages</a>
 				</div>
