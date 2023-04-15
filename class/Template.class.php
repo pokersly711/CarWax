@@ -98,9 +98,9 @@ class Template
 										<li>
 												'.self::createMenuItem('gallery','Gallery').'
 												'.self::createMenuItem('betaSpecial','Special').'
-												'.self::createMenuItem('packagsPrepaid','Packages').'
+												'.self::createMenuItem('packagesPrepaid','Packages').'
 												'.self::createMenuItem('commercialFleet','Commercial').'
-												'.self::createMenuItem('OurFamily','Our Family').'
+												'.self::createMenuItem('ourFamily','Our Family').'
 
 									
 										</li>
@@ -124,9 +124,9 @@ class Template
 										<li>
 												'.self::createMenuItem('gallery','Gallery').'
 												'.self::createMenuItem('betaSpecial','Beta Special').'
-												'.self::createMenuItem('packagsPrepaid','Pre-paid Packages').'
+												'.self::createMenuItem('packagesPrepaid','Pre-paid Packages').'
 												'.self::createMenuItem('commercialFleet','Commercial Accounts').'
-												'.self::createMenuItem('OurFamily','Meet Our Family').'	
+												'.self::createMenuItem('ourFamily','Meet Our Family').'	
 										
 										</li>
 												'.self::createMenuItem('book-your-wash','Booking').'
@@ -146,9 +146,7 @@ class Template
 						<!-- Social icons -->
 						<div class="template-header-top-icon-list template-component-social-icon-list-1">
 							<ul class="template-component-social-icon-list">
-								<li><a href="https://twitter.com/" class="template-icon-social-twitter" target="_blank"></a></li>
 								<li><a href="https://www.facebook.com/carvenienceondemand" class="template-icon-social-facebook" target="_blank"></a></li>
-								<li><a href="https://dribbble.com/" class="template-icon-social-dribbble" target="_blank"></a></li>
 								<li><a href="'.Template::getPageURL('book-your-wash',false).'" class="template-icon-meta-cart"></a></li>
 								<li><a href="#" class="template-icon-meta-search"></a></li>
 								<li><a href="#" class="template-icon-meta-menu"></a></li>
