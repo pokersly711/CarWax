@@ -3100,10 +3100,7 @@ ul.template-widget-list
 		margin-top:-1px;
 	}
 	
-		.template-component-announcement>h3
-		{
-			
-		}
+		
 		
 		.template-component-announcement>div
 		{
@@ -3121,10 +3118,7 @@ ul.template-widget-list
 			padding:0px;
 		}
 		
-		.template-component-announcement>a
-		{
-			
-		}
+		
 		
 	/**************************************************************************/
 	/* Component / Blockquote												  */
@@ -3200,10 +3194,6 @@ ul.template-widget-list
 					/* Component / Booking / Item / Header					  */
 					/**********************************************************/
 	
-					.template-component-booking .template-component-booking-item-header
-					{
-				
-					}
 					
 						.template-component-booking .template-component-booking-item-header>span
 						{
@@ -3627,7 +3617,14 @@ ul.template-widget-list
 		border-width:2px;
 		border-style:solid;
 		display:inline-block;
+		padding:16
+		position:relative;
+		border-width:2px;
+		border-style:solid;
+		display:inline-block;
 		padding:16px 38px 16px 38px;
+	}
+	px 38px 16px 38px;
 	}
 	
 	.template-component-button,
@@ -3668,10 +3665,7 @@ ul.template-widget-list
 	/* Component / Call to action											  */
 	/**************************************************************************/
 	
-	.template-component-call-to-action
-	{
 	
-	}
 	
 		.template-component-call-to-action>div
 		{
@@ -3679,31 +3673,20 @@ ul.template-widget-list
 			padding:40px 0px 40px 0px;
 		}
 		
-			.template-component-call-to-action>div>h3,
-			.template-component-call-to-action>div>a.template-component-button
+			
+	
+	.template-component-call-to-action>div>a.template-component-button
 			{
 				display:inline-block;
 				margin:10px 20px 10px 20px;
 			}
 		
-			.template-component-call-to-action>div>h3
-			{
-				
-			}
-	
-			.template-component-call-to-action>div>a.template-component-button
-			{
-				
-			}
 			
-	/**************************************************************************/
-	/* Component / Contact form												  */
-	/**************************************************************************/
 			
-	.template-component-contact-form
-	{
-		
-	}
+			/**************************************************************************/
+			/* Component / Contact form												  */
+			/**************************************************************************/
+					
 	
 		.template-component-contact-form textarea
 		{
@@ -3721,10 +3704,7 @@ ul.template-widget-list
 	/* Component / Comment form												  */
 	/**************************************************************************/		
 		
-	.template-component-comment-form
-	{
-		
-	}
+	
 	
 		.template-component-comment-form textarea
 		{
@@ -3736,10 +3716,7 @@ ul.template-widget-list
 	/* Component / Counter bar list											  */
 	/**************************************************************************/
 			
-	.template-component-counter-bar-list
-	{
-		
-	}
+	
 	
 		.template-component-counter-bar-list>ul
 		{
@@ -3751,8 +3728,12 @@ ul.template-widget-list
 			.template-component-counter-bar-list>ul>li
 			{
 				margin-bottom:30px;
-			}
-			
+				.template-component-counter-bar-list
+				{
+					
+				}		
+		
+		
 				.template-component-counter-bar-list>ul>li>h6
 				{
 					margin-bottom:20px;
@@ -3783,10 +3764,7 @@ ul.template-widget-list
 	/* Component / Counter box list											  */
 	/**************************************************************************/
 				
-	.template-component-counter-box-list
-	{
-		
-	}
+	
 	
 		.template-component-counter-box-list>ul
 		{
@@ -3844,25 +3822,9 @@ ul.template-widget-list
 	/* Component / Feature list												  */
 	/**************************************************************************/
 			
-	.template-component-feature-list
-	{
-		
-	}
 	
-		.template-component-feature-list>ul
-		{
-			
-		}
 		
-			.template-component-feature-list>ul>li
-			{
-				
-			}
-						
-				.template-component-feature-list>ul>li>span
-				{
-					
-				}
+			
 				
 				.template-component-feature-list>ul>li>h5
 				{
@@ -3920,10 +3882,6 @@ ul.template-widget-list
 	/* Component / Gallery													  */
 	/**************************************************************************/
 	
-	.template-component-gallery
-	{
-		
-	}
 	
 		/**********************************************************************/
 		/* Component / Gallery / Filter list								  */
@@ -3971,10 +3929,7 @@ ul.template-widget-list
 				margin-bottom:60px;
 			}
 			
-			.template-component-gallery .template-component-gallery-image-list>li.template-component-gallery-image-list-width-2
-			{
-				
-			}
+			
 			
 				.template-component-gallery .template-component-gallery-image-list>li a,
 				.template-component-gallery .template-component-gallery-image-list>li a img
@@ -4023,10 +3978,7 @@ ul.template-widget-list
 			overflow:hidden;
 		}
 		
-			.template-component-google-map .template-component-google-map-box-content
-			{
 			
-			}
 		
 		.template-component-google-map .template-component-google-map-button
 		{
@@ -4082,10 +4034,7 @@ ul.template-widget-list
 		margin-bottom:40px;
 	}
 	
-		.template-component-header-subheader>h2
-		{
-
-		}
+		
 		
 		.template-component-header-subheader>h4
 		{
@@ -4276,10 +4225,7 @@ ul.template-widget-list
 				display:inline-block;
 			}
 			
-				.template-component-menu-default>.sf-menu>li
-				{
-					
-				}
+				
 				
 					.template-component-menu-default>.sf-menu>li a
 					{
@@ -4352,29 +4298,24 @@ ul.template-widget-list
 			top:-9999em;
 			display:block;
 			position:fixed;
+			opacity: .025;
 			z-index:100005;
 		}
 		
 			.template-component-menu-responsive.template-state-open>ul
 			{
-				box-shadow:0px 1px 5px 0px rgba(0,0,0,0.1);
+				box-shadow:0px 1px 5px 0px rgba(0,0,0,0.05);
 			}
 		
 	/**************************************************************************/
 	/* Component / More link												  */
 	/**************************************************************************/
 	
-	.template-component-more-link
-	{
-		
-	}
 	
-		.template-component-more-link>span
-		{
-		
-		}
+	
+	
 
-		.template-component-more-link>span+span
+		.template-component-more-link>span>span
 		{
 			display:none;
 		}
@@ -4388,10 +4329,7 @@ ul.template-widget-list
 	/* Component / Process list												  */
 	/**************************************************************************/
 		
-	.template-component-process-list
-	{
-		
-	}
+	
 	
 		.template-component-process-list>ul
 		{
@@ -4571,10 +4509,7 @@ ul.template-widget-list
 	/* Component / Team list												  */
 	/**************************************************************************/
 		
-	.template-component-team-list
-	{
-		
-	}
+	
 	
 		.template-component-team-list>ul
 		{
@@ -4583,10 +4518,7 @@ ul.template-widget-list
 			list-style-type:none;
 		}
 		
-			.template-component-team-list>ul>li
-			{
-				
-			}
+			
 			
 				.template-component-team-list>ul>li>.template-component-team-list-image
 				{
@@ -4765,7 +4697,20 @@ ul.template-widget-list
 		.template-component-space-3m
 		{
 			margin-top:-90px;
-		}
+		}rsor:pointer;
+	}
+	
+	body>.template-component-search-form>form>div>span
+	{
+		top:19px;
+		font-size:24px;
+	}
+
+/**************************************************************************/
+/* Component / Space													  */
+/**************************************************************************/
+	
+.template-componen
 		
 		.template-component-space-4
 		{

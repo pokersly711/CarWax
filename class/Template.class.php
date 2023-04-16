@@ -91,16 +91,16 @@ class Template
 						<div class="template-header-top-menu template-main">
 							<nav>
 							
-								<!-- Default menu-->
-								<div class="template-component-menu-default">
-									<ul class="sf-menu">
-										'.self::createMenuItem('home','Home').'
-										<li>
-												'.self::createMenuItem('gallery','Gallery').'
-												'.self::createMenuItem('betaSpecial','Special').'
-												'.self::createMenuItem('packagesPrepaid','Packages').'
-												'.self::createMenuItem('commercialFleet','Commercial').'
-												'.self::createMenuItem('ourFamily','Our Family').'
+							<!-- Default menu-->
+							<div class="template-component-menu-default">
+								<ul class="sf-menu">
+									'.self::createMenuItem('home','Home').'
+									<li>
+											'.self::createMenuItem('gallery','Gallery').'
+											'.self::createMenuItem('betaSpecial','Special').'
+											'.self::createMenuItem('packagesPrepaid','Packages').'
+											'.self::createMenuItem('beYourOnBoss','Shine Specialist').'
+											'.self::createMenuItem('ourFamily','Our Family').'
 
 									
 										</li>
