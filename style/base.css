@@ -1703,8 +1703,7 @@ form
 	.template-component-booking .template-component-button:before,
 	[class^="template-icon-booking-meta-"], [class*=" template-icon-booking-meta-"] 
 	{
-		font-family:'template-icon-booking-meta' !important;
-		speak:none;
+		font-family:'exo 2, sans-serif' !important;
 		font-style:normal;
 		font-weight:normal;
 		font-variant:normal;
@@ -2202,15 +2201,8 @@ form
 			
 		
 		
-			.template-blog .template-blog-header .template-blog-header-header h3
-			{
-				
-			}
-	
-			.template-blog .template-blog-header .template-blog-header-header h3
-			{
-				
-			}
+			
+		
 			
 		/**********************************************************************/
 		/* Blog / Header / Meta												  */
@@ -3222,10 +3214,8 @@ ul.template-widget-list
 								margin:0px 0px 0px 110px;
 							}
 							
-							.template-component-booking .template-component-booking-item-header>h3
-							{
-								
-							}
+							
+							
 							
 							.template-component-booking .template-component-booking-item-header>h5
 							{
@@ -3290,25 +3280,12 @@ ul.template-widget-list
 				width:185px \9;
 			}
 
-				.template-component-booking .template-component-booking-vehicle-list>li>div
-				{
 				
-				}
-
-					.template-component-booking .template-component-booking-vehicle-list>li>div>div
-					{
 				
-					}
 
-					.template-component-booking .template-component-booking-vehicle-list>li>div>div
-					{
 					
-					}
 
-					.template-component-booking .template-component-booking-vehicle-list>li>div>div+div
-					{
 					
-					}
 					
 		/**********************************************************************/
 		/* Component / Booking / Package list								  */
@@ -3406,10 +3383,8 @@ ul.template-widget-list
 		/* Component / Booking / Service list								  */
 		/**********************************************************************/
 
-		.template-component-booking-service-list
-		{
-
-		}
+		
+		
 
 			.template-component-booking-service-list>li
 			{
@@ -3538,10 +3513,17 @@ ul.template-widget-list
 		/* Component / Booking / Summary									  */
 		/**********************************************************************/
 
-		.template-component-booking .template-component-booking-summary
-		{
-
-		}
+		
+			.template-component-booking-summary>li
+			{
+				float:left;
+				width:48.7179%;
+				text-align:right;
+				border-width:1px;
+				border-style:solid;
+				margin-bottom:30px;
+				padding:35px 30px 30px 30px;
+			}
 
 			.template-component-booking .template-component-booking-summary>li
 			{
@@ -3591,10 +3573,8 @@ ul.template-widget-list
 					font-size:24px;
 				}
 
-				.template-component-booking .template-component-booking-summary>li>span
-				{
-
-				}
+				
+				
 
 				.template-component-booking .template-component-booking-summary>li>div
 				{
@@ -3617,15 +3597,14 @@ ul.template-widget-list
 		border-width:2px;
 		border-style:solid;
 		display:inline-block;
-		padding:16
+		padding:16;
 		position:relative;
 		border-width:2px;
 		border-style:solid;
 		display:inline-block;
 		padding:16px 38px 16px 38px;
 	}
-	px 38px 16px 38px;
-	}
+	
 	
 	.template-component-button,
 	.template-component-button:hover
@@ -3728,8 +3707,7 @@ ul.template-widget-list
 			.template-component-counter-bar-list>ul>li
 			{
 				margin-bottom:30px;
-				.template-component-counter-bar-list
-				{
+				
 					
 				}		
 		
@@ -4697,7 +4675,7 @@ ul.template-widget-list
 		.template-component-space-3m
 		{
 			margin-top:-90px;
-		}rsor:pointer;
+		    cursor:pointer;
 	}
 	
 	body>.template-component-search-form>form>div>span
@@ -4879,10 +4857,7 @@ ul.template-widget-list
 				display:inline-block;
 			}
 			
-			.template-component-testimonial-list .template-component-testimonial-list-navigation .template-component-testimonial-list-navigation-right
-			{
-				
-			}
+			
 	
 /******************************************************************************/
 /* Page																		  */
@@ -4892,10 +4867,7 @@ ul.template-widget-list
 	/* Page / 404															  */
 	/**************************************************************************/
 	
-	.template-page-404
-	{
-		
-	}
+	
 	
 		.template-page-404 .template-content h1
 		{
