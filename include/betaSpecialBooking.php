@@ -46,7 +46,18 @@
 							<li data-id="wheel-shine">Save money while your car stays clean and shiney.</li>
 						</ul>
 						
+						<!-- Butto
+						
 						<!-- Button -->
+						<div class="template-component-button-box">
+							<a href="/prepaidPackages.php" class="template-component-button">More Info</a>
+						</div>
+						
+					</li>
+					
+					<!-- Package -->
+					<li data-id="basic-hand-wash-2" data-id-vehicle-rel="medium-size-car">
+						n -->
 						<div class="template-component-button-box">
 							<a href="/prepaidPackages.php" class="template-component-button">More Info</a>
 						</div>
@@ -85,8 +96,8 @@
 							<a href="#" class="template-component-button">Book Now</a>
 						</div>
 						
-					</li>
-					
+						</li>
+						
 					<!-- Package -->
 					<li data-id="deluxe-wash-1" data-id-vehicle-rel="regular-size-car,compact-suv,minivan,pickup-truck,cargo-truck">
 						<h4 class="template-component-booking-package-name">Interior & Exterior Clean, Shine, and Protection Package</h4>
