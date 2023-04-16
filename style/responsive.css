@@ -9,7 +9,8 @@
 /******************************************************************************/
 	
 	/**************************************************************************/
-	/* Layout / Flex														  */
+	/* Layout / Flex		*****************************************************/
+													  */
 	/**************************************************************************/
 
 		.template-layout-flex>div
@@ -173,10 +174,7 @@
 		display:table;
 	}
 	
-		.template-blog .template-blog-meta>div
-		{
-			
-		}
+	
 		
 			.template-blog .template-blog-meta>div>div
 			{
@@ -413,10 +411,8 @@ h1
 	/* Layout / Flex														  */
 	/**************************************************************************/
 
-	.template-layout-flex
-	{
-		
-	}
+	
+
 	
 		.template-layout-flex>div
 		{
@@ -542,10 +538,8 @@ body>.template-component-search-form>form>div>input[type="search"]
 	/* Blog	/ Author Info													  */
 	/**************************************************************************/	
 	
-	.template-blog .template-blog-author-info
-	{
-		
-	}
+	
+
 	
 		.template-blog .template-blog-author-info img
 		{
