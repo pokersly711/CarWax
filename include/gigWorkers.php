@@ -81,9 +81,9 @@
 
 		</div>
 						
-		<script type="text/javascript">
-			jQuery(document).ready(function($)
-			{
-				$('#template-booking').booking();
-			});
-		</script>
+						<script type="text/javascript">
+							jQuery(document).ready(function($)
+							{
+								$('#template-booking').booking();
+							});
+						</script>

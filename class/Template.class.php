@@ -91,16 +91,16 @@ class Template
 						<div class="template-header-top-menu template-main">
 							<nav>
 							
-								<!-- Default menu-->
-								<div class="template-component-menu-default">
-									<ul class="sf-menu">
-										'.self::createMenuItem('home','Home').'
-										<li>
-												'.self::createMenuItem('gallery','Gallery').'
-												'.self::createMenuItem('betaSpecial','Special').'
-												'.self::createMenuItem('packagesPrepaid','Packages').'
-												'.self::createMenuItem('commercialFleet','Commercial').'
-												'.self::createMenuItem('ourFamily','Our Family').'
+							<!-- Default menu-->
+							<div class="template-component-menu-default">
+								<ul class="sf-menu">
+									'.self::createMenuItem('home','Home').'
+									<li>
+											'.self::createMenuItem('gallery','Gallery').'
+											'.self::createMenuItem('betaSpecial','Special').'
+											'.self::createMenuItem('packagesPrepaid','Packages').'
+											'.self::createMenuItem('beYourOnBoss','Shine Specialist').'
+											'.self::createMenuItem('ourFamily','Our Family').'
 
 									
 										</li>
@@ -125,25 +125,25 @@ class Template
 												'.self::createMenuItem('gallery','Gallery').'
 												'.self::createMenuItem('betaSpecial','Beta Special').'
 												'.self::createMenuItem('packagesPrepaid','Pre-paid Packages').'
-												'.self::createMenuItem('commercialFleet','Commercial Accounts').'
+												'.self::createMenuItem('beYourOnBoss','Shine Specialists').'
 												'.self::createMenuItem('ourFamily','Meet Our Family').'	
 										
 										</li>
-												'.self::createMenuItem('book-your-wash','Booking').'
-										
-									</ul>							
-								</div>
+										'.self::createMenuItem('book-your-wash','Booking').'
 								
-							</nav>
-							<script type="text/javascript">
-								jQuery(document).ready(function($)
-								{
-									$(\'.template-header-top\').templateHeader();
-								});
-							</script>
+							</ul>							
 						</div>
+						
+					</nav>
+					<script type="text/javascript">
+						jQuery(document).ready(function($)
+						{
+							$(\'.template-header-top\').templateHeader();
+						});
+						</script>
+					</div>
 
-						<!-- Social icons -->
+							<!-- Social icons -->
 						<div class="template-header-top-icon-list template-component-social-icon-list-1">
 							<ul class="template-component-social-icon-list">
 								<li><a href="https://www.facebook.com/carvenienceondemand" class="template-icon-social-facebook" target="_blank"></a></li>

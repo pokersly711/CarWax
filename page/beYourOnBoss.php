@@ -4,7 +4,7 @@
 				<div class="template-header template-header-background template-header-background-1">
 <?php
 		Template::includeTemplateHeaderTop();
-		Template::includeTemplateHeaderBottom('Be Your Own Boss',array(array(Template::getPageURL('home',false),'Home'),array('#','Commercial Fleet')));
+		Template::includeTemplateHeaderBottom('Be Your Own Boss',array(array(Template::getPageURL('home',false),'Home'),array('#','Be Your Own Boss')));
 ?>
 				
 				</div>
@@ -13,29 +13,53 @@
 				<!-- Content -->
 				<div class="template-content">
 
-					<!-- Section -->
-					<div class="template-section template-section-padding-1 template-clear-fix template-main">
+<!-- Section -->
+<div class="template-section template-section-padding-1 template-clear-fix template-main">
+	
+	<!-- Header + subheader -->
+	<div class="template-component-header-subheader">
+		<h2>Be Your On Boss<h2>
+		<div></div>
+		<span>Become your on Boss with Carvenience.</span>
+	</div>		
 						
-						<!-- Header + subheader -->
-						<div class="template-component-header-subheader">
-							<h2>Commercial $ Fleet Packages<h2>
-							<div></div>
-							<span>We are offering special packages for our commercial clients.</span>
-						</div>		
-						
+	<div class="template-clear-fix template-align-center">
+							
+							<!-- Text -->
+							
+							<!-- Button -->
+							<a href=
 						<div class="template-clear-fix template-align-center">
 							
 							<!-- Text -->
-							<p>
-							Packages for exterior and full detail.<br/>
-								Buy a Package and you have 2 years to use them. Limited areas for now, but our goal is to offer our services Nationwide. 
-							</p>
+							
+							<!-- Button -->
+							<a href="<?php Template::getPageURL('Partners'); ?>" class="template-component-button template-align-center">Partners</a>
+							
+						</div>
+						<p>
+							We offer full training and then support you as your prosper as an Shine Specialist.<br/>
+							<br>
+							Once you complete the training and recieve your Chemical Guys Shine Kit, we offer our app for you to choose when and where you make your money.
+							"<?php Template::getPageURL('Partners'); ?>" class="template-component-button template-align-center">Partners</a>
+							
+						</div>
+						<p>
+							We offer full training and then support you as your prosper as an Shine Specialist.<br/>
+							<br>
+							Once you complete the training and recieve your Chemical Guys Shine Kit, we offer our app for you to choose when and where you make your money.
+							
+							<!-- Button -->
+							<a href="<?php Template::getPageURL('Partners'); ?>" class="template-component-button template-align-center">Partners</a>
+							
+						</div>
+						</p>
 							
 							<!-- Space -->
 							<div class="template-component-space template-component-space-2"></div>
 							
 							<!-- Button -->
-							<a href="<?php Template::getPageURL('book-your-wash'); ?>" class="template-component-button template-align-center">Booking</a>
+							<a href="<?php Template::getPageURL('Partners'); ?>" class="template-component-button template-align-center">Partners</a>
 							
 						</div>
 						
@@ -52,13 +76,23 @@
 						<div class="template-component-feature-list template-component-feature-list-position-left">
 							
 							<!-- Layout 33x33x33% -->
-							<ul class="template-layout-33x33x33 template-clear-fix">
+							<','Commercial').'
+												'.self::createMenuItem('ourFamily','Our Family').'
+ul class="template-layout-33x33x33 template-clear-fix">
 								
 								<!-- Left column -->
-								<li class="template-layout-column-left">
+								<li class="templ="tem','Commercial').'
+												'.self::createMenuItem('ourFamily','Our Family').'
+plate-icon-feature-video"></span>
+									<h5>Video Tutorials</h5>
+									<p>We have partnered with Chemical Guys to teach our future partners how to give that perfect shine to every service booking.</p>
+								</li>
+								
+								<!-- Center column -->
+								<li class="tempate-layout-column-left">
 									<span class="template-icon-feature-video"></span>
 									<h5>Video Tutorials</h5>
-									<p>Terminal gravida est elementum dosisa novum at normal elite forte cuprumami gravida silica termal.</p>
+									<p>We have partnered with Chemical Guys to teach our future partners how to give that perfect shine to every service booking.</p>
 								</li>
 								
 								<!-- Center column -->
