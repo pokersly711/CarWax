@@ -18,9 +18,9 @@
 						<!-- Header + subheader -->
 						<div class="template-component-header-subheader">
 							<h2>Carvenience</h2>
-							<div></div>
+							<div>On Demand Carwash</div>
 
-                            <span>Shine on your Time!</span>
+                            <span>A new way to shine!</span>
 
 						</div>	
 						
@@ -39,7 +39,7 @@
 								<p class="template-padding-reset">
                                     Carvenience OnDemand Carwash is a startup company that provides on-demand car wash services to busy individuals who value a clean and well-maintained car. The concept behind Carvenience OnDemand Carwash is to offer a convenient solution for people who want to keep their vehicles clean, but struggle to find the time in their busy schedules to do so.
                                     <br>
-                                    With Carvenience OnDemand Carwash, customers can schedule a car wash service at a time and location that is convenient for them. Whether it's at home, at work, or at another location, our team of experienced Shine Specialists will come to the customer's location and provide an exceptional car wash experience.
+                                    With Carvenience OnDemand Carwash, we bring the shine to you. Book a time and location and we come to you. Letting you do the things that are important.
                                     <br>
                                     We understand that our customers' time is valuable, which is why we offer flexible scheduling options and a variety of packages to suit different needs. Our services are available seven days a week, so customers can choose a time that fits their schedule.
                                     <br>
@@ -95,7 +95,7 @@
 						<!-- Call to action -->
 						<div class="template-component-call-to-action">
 							<div class="template-main">
-								<h3>Beta Packages</h3>
+								<h3>Packages</h3>
 								<a href="<?php Template::getPageURL('packagesPrepaid.php'); ?>" class="template-component-button">Limited Time</a>
 							</div>
 						</div>
@@ -148,7 +148,7 @@
 									<!-- Right column -->
 									<li class="template-layout-column-right">
 										<span class="template-icon-feature-vacuum-cleaner"></span>
-										<h5>4. Book</h5>
+										<h5>4. Booking</h5>
 									</li>
 									
 								</ul>
@@ -167,7 +167,7 @@
 						<div class="template-component-header-subheader">
 							<h2>Wash Packages</h2>
 							<div></div>
-							<span>Which wash is the best for your vehicle?</span>
+							<span>External Wash & Wax</span>
 						</div>	
 						
 						<!-- Booking -->
