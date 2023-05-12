@@ -93,9 +93,9 @@ class Template
 							
 								<!-- Default menu-->
 								<div class="template-component-menu-default">
-									<ul class="sf-menu">
-										'.self::createMenuItem('home','Home').'
-										<li>
+									<li class="sf-menu">
+												'.self::createMenuItem('home','Home').'
+										
 												'.self::createMenuItem('gallery','Gallery').'
 												'.self::createMenuItem('betaSpecial','Special').'
 												'.self::createMenuItem('packagsPrepaid','Packages').'
@@ -104,7 +104,7 @@ class Template
 
 									
 										</li>
-												'.self::createMenuItem('book-your-wash','Booking').'
+					
 										
 										
 										</li>
@@ -120,8 +120,8 @@ class Template
 								<div class="template-component-menu-responsive">
 									<ul class="flexnav">
 										<li><a href="#"><span class="touch-button template-icon-meta-arrow-large-tb template-component-menu-button-close"></span>&nbsp;</a></li>
-										'.self::createMenuItem('home','Home').'
-										<li>
+												'.self::createMenuItem('home','Home').'
+									
 												'.self::createMenuItem('gallery','Gallery').'
 												'.self::createMenuItem('betaSpecial','Beta Special').'
 												'.self::createMenuItem('packagsPrepaid','Pre-paid Packages').'
@@ -129,7 +129,7 @@ class Template
 												'.self::createMenuItem('OurFamily','Meet Our Family').'	
 										
 										</li>
-												'.self::createMenuItem('book-your-wash','Booking').'
+												
 										
 									</ul>							
 								</div>
@@ -225,6 +225,6 @@ class Template
 	
 	/**************************************************************************/
 }
-
+?>
 /******************************************************************************/
 /******************************************************************************/
