@@ -2,13 +2,13 @@
 
 				<!-- Header -->
 				<div class="template-header">
-<?php Template::includeTemplateHeaderTop(); ?>
+				<?php Template::includeTemplateHeaderTop(); ?>
 					<div class="template-header-bottom">
 						<?php Template::includeFile('slider'); ?>
 					</div>
 					
 				</div>
-
+				<a class="template-component-button template-color-white" href="../plugin/login/login.php" title="Purchase Template">Login</a>
 				<!-- Content -->
 				<div class="template-content">
 

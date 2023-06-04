@@ -147,6 +147,15 @@
     <meta charset="utf-8">
     <meta name=description content="PHP and Microsoft Azure Database Login by childofcode.com">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Carvenience Ondemand Carwash</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
+    <style type="text/css">
+        body{ 
+            color: #01c20d;
+            font: 14px sans-serif; 
+            background-color: #abababab;
+=======
     <title>PHP and Microsoft Azure Database Login by childofcode.com</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
     <style type="text/css">
@@ -174,6 +183,16 @@
             align-items: center;
             text-align: center;
             background-color: white;
+            border: 1px solid #01c20d;
+        }
+        .login-button{ 
+            color: #;
+            background-color: #000000
+            border-color: #01c20d;
+        }
+        .login-label{ 
+            color: #01c20d;
+
             border: 1px solid #eaeaea;
         }
         .login-button{ 
@@ -183,6 +202,7 @@
         }
         .login-label{ 
             color: #666;
+
         }
         input[type="text"]::placeholder {  
                   text-align: center; 
@@ -195,6 +215,7 @@
 <body>  
     <div class="login-block">
         <div class="wrapper">
+            <h2>Clients Sign In</h2>
             <h2>User login page</h2>
             </br>
             <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]."?page=".$_GET['page']."&data=".$_GET['data']) ; ?>" method="post">
@@ -215,6 +236,7 @@
                     <input type="submit" class="btn btn-primary login-button" value="Login">
                 </div>
             </form>
+            <a href="/">by Hyperactive Digital Studios</a>
             <a href="https://childofcode.com/">by childofcode.com</a>
         </div>    
     </div>
