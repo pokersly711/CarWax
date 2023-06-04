@@ -1,18 +1,16 @@
 <?php
 
-/******************************************************************************/
-/******************************************************************************/
 
 class Template
 {
-	/**************************************************************************/
+	
 
 	function __construct()
 	{
 
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function getFilePath($folder,$file)
 	{
@@ -21,14 +19,14 @@ class Template
 		return(false);
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function getTemplatePath($folder=null)
 	{
 		return(dirname(__FILE__).'/../'.(is_null($folder) ? null : $folder.'/'));
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function getCurrentFilePath($page=null)
 	{
@@ -41,28 +39,28 @@ class Template
 		else return(self::getFilePath('page','404'));		
 	}
 
-	/**************************************************************************/
+	
 
 	static function includePage($page=null)
 	{
 		require_once(self::getCurrentFilePath($page));
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function includeFooter()
 	{
 		self::includeFile('footer');
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function includeHeader()
 	{
 		self::includeFile('header');
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function includeFile($file)
 	{
@@ -70,7 +68,7 @@ class Template
 		if($path!==false) require_once($path);		
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function includeTemplateHeaderTop()
 	{
@@ -155,7 +153,7 @@ class Template
 		echo $html;
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function includeTemplateHeaderBottom($title,$breadcrumb)
     {
@@ -189,7 +187,7 @@ class Template
 		echo $html;
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function getBodyCSSClass()
 	{
@@ -197,7 +195,7 @@ class Template
 		return(join(' ',$class));
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function getPageURL($page,$echo=true)
 	{
@@ -207,14 +205,14 @@ class Template
 		else return($url);
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function isPage($page)
 	{
 		return(basename(self::getCurrentFilePath(),'.php')==$page);
 	}
 	
-	/**************************************************************************/
+	
 	
 	static function createMenuItem($page,$label,$listItem=true)
 	{	
@@ -223,8 +221,6 @@ class Template
 		return($html);
 	}
 	
-	/**************************************************************************/
+	
 }
 ?>
-/******************************************************************************/
-/******************************************************************************/
