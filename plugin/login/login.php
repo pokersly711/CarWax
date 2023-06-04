@@ -148,6 +148,8 @@
     <meta name=description content="PHP and Microsoft Azure Database Login by childofcode.com">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
+
     <title>Carvenience Ondemand Carwash</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
     <style type="text/css">
@@ -155,7 +157,7 @@
             color: #01c20d;
             font: 14px sans-serif; 
             background-color: #abababab;
-=======
+
     <title>PHP and Microsoft Azure Database Login by childofcode.com</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.css">
     <style type="text/css">
@@ -163,6 +165,7 @@
             color: #666;
             font: 14px sans-serif; 
             background-color: #fafafa;
+
         }
         .login-block{ 
             padding: 20px; 
@@ -193,6 +196,7 @@
         .login-label{ 
             color: #01c20d;
 
+
             border: 1px solid #eaeaea;
         }
         .login-button{ 
@@ -202,6 +206,7 @@
         }
         .login-label{ 
             color: #666;
+
 
         }
         input[type="text"]::placeholder {  
@@ -215,8 +220,8 @@
 <body>  
     <div class="login-block">
         <div class="wrapper">
-            <h2>Clients Sign In</h2>
-            <h2>User login page</h2>
+          <h2>Clients Sign In</h2>
+          <h2>User login page</h2>
             </br>
             <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]."?page=".$_GET['page']."&data=".$_GET['data']) ; ?>" method="post">
                 <div class="form-group <?php echo (!empty($username_err)) ? 'has-error' : ''; ?>">
@@ -237,7 +242,9 @@
                 </div>
             </form>
             <a href="/">by Hyperactive Digital Studios</a>
+
             <a href="https://childofcode.com/">by childofcode.com</a>
+
         </div>    
     </div>
 </body>  

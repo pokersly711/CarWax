@@ -1,6 +1,7 @@
 
 		
 
+
 		<?php  
 	/* Microsoft Azure Database PHP login protected page by childofcode.com */
 
@@ -11,6 +12,7 @@
     			exit;
 		}
 ?>
+
 		<!-- Header + subheader -->
 		<div class="template-component-header-subheader template-align-left">
 			<h2>We are looking for driven individuals<br></br> with a close attention to detail.

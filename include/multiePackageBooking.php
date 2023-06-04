@@ -1,5 +1,6 @@
 
 
+
 <?php  
 /* Microsoft Azure Database PHP login protected page by childofcode.com */
 
@@ -10,6 +11,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     exit;
 }
 ?>
+
 
 
 			
