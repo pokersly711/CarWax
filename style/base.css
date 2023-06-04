@@ -1,4 +1,4 @@
-/***************************************************************************************
+/**************************
 [TABLE OF CONTENTS]
 
 + Reset styles	
@@ -1704,7 +1704,6 @@ form
 	[class^="template-icon-booking-meta-"], [class*=" template-icon-booking-meta-"] 
 	{
 		font-family:'template-icon-booking-meta' !important;
-		speak:none;
 		font-style:normal;
 		font-weight:normal;
 		font-variant:normal;
@@ -3591,11 +3590,6 @@ ul.template-widget-list
 					font-size:24px;
 				}
 
-				.template-component-booking .template-component-booking-summary>li>span
-				{
-
-				}
-
 				.template-component-booking .template-component-booking-summary>li>div
 				{
 					float:left;
@@ -3617,14 +3611,12 @@ ul.template-widget-list
 		border-width:2px;
 		border-style:solid;
 		display:inline-block;
-		padding:16
+		padding:16;
 		position:relative;
 		border-width:2px;
 		border-style:solid;
 		display:inline-block;
-		padding:16px 38px 16px 38px;
-	}
-	px 38px 16px 38px;
+		
 	}
 	
 	.template-component-button,
@@ -3728,8 +3720,7 @@ ul.template-widget-list
 			.template-component-counter-bar-list>ul>li
 			{
 				margin-bottom:30px;
-				.template-component-counter-bar-list
-				{
+				
 					
 				}		
 		
@@ -4697,8 +4688,7 @@ ul.template-widget-list
 		.template-component-space-3m
 		{
 			margin-top:-90px;
-		}rsor:pointer;
-	}
+		}
 	
 	body>.template-component-search-form>form>div>span
 	{

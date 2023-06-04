@@ -20,12 +20,12 @@
 
 							<!-- Left column -->
 							<div class="template-content-layout-column-left">	
-								<?php Template::includeFile('single-service'); ?>
+								<?php Template::includeFile('packagesPrepaid.php'); ?>
 							</div>
 							
 							<!-- Right column -->
 							<div class="template-content-layout-column-right">
-								<?php Template::includeFile('sidebar-service'); ?>
+								<?php Template::includeFile('betaSpecial.php'); ?>
 							</div>
 							
 						</div>

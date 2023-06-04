@@ -1,6 +1,4 @@
-
-
-		<li>
+<li>
 			
 			<!-- Content -->
 			<div class="template-component-booking-item-content">
